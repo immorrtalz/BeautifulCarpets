@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/carpet",
+	"textures":
+	{
+		"wool": "beautifulcarpets:block/orange_gold_moquette"
+	}
+}

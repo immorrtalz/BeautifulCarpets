@@ -1,5 +1,132 @@
 {
 	"itemGroup.beautifulcarpets": "BeautifulCarpets",
-	"block.beautifulcarpets.red_moquette": "Red Moquette",
-	"block.beautifulcarpets.red_moquette_carpet": "Red Moquette Carpet"
+
+	"block.beautifulcarpets.red_gold_moquette": "Red Gold Moquette",
+	"block.beautifulcarpets.red_silver_moquette": "Red Silver Moquette",
+	"block.beautifulcarpets.red_copper_moquette": "Red Copper Moquette",
+
+	"block.beautifulcarpets.orange_gold_moquette": "Orange Gold Moquette",
+	"block.beautifulcarpets.orange_silver_moquette": "Orange Silver Moquette",
+	"block.beautifulcarpets.orange_copper_moquette": "Orange Copper Moquette",
+
+	"block.beautifulcarpets.yellow_gold_moquette": "Yellow Gold Moquette",
+	"block.beautifulcarpets.yellow_silver_moquette": "Yellow Silver Moquette",
+	"block.beautifulcarpets.yellow_copper_moquette": "Yellow Copper Moquette",
+
+	"block.beautifulcarpets.olive_gold_moquette": "Olive Gold Moquette",
+	"block.beautifulcarpets.olive_silver_moquette": "Olive Silver Moquette",
+	"block.beautifulcarpets.olive_copper_moquette": "Olive Copper Moquette",
+
+	"block.beautifulcarpets.green_gold_moquette": "Green Gold Moquette",
+	"block.beautifulcarpets.green_silver_moquette": "Green Silver Moquette",
+	"block.beautifulcarpets.green_copper_moquette": "Green Copper Moquette",
+
+	"block.beautifulcarpets.seagreen_gold_moquette": "Seagreen Gold Moquette",
+	"block.beautifulcarpets.seagreen_silver_moquette": "Seagreen Silver Moquette",
+	"block.beautifulcarpets.seagreen_copper_moquette": "Seagreen Copper Moquette",
+
+	"block.beautifulcarpets.emerald_gold_moquette": "Emerald Gold Moquette",
+	"block.beautifulcarpets.emerald_silver_moquette": "Emerald Silver Moquette",
+	"block.beautifulcarpets.emerald_copper_moquette": "Emerald Copper Moquette",
+
+	"block.beautifulcarpets.aquamarine_gold_moquette": "Aquamarine Gold Moquette",
+	"block.beautifulcarpets.aquamarine_silver_moquette": "Aquamarine Silver Moquette",
+	"block.beautifulcarpets.aquamarine_copper_moquette": "Aquamarine Copper Moquette",
+
+	"block.beautifulcarpets.blue_gold_moquette": "Blue Gold Moquette",
+	"block.beautifulcarpets.blue_silver_moquette": "Blue Silver Moquette",
+	"block.beautifulcarpets.blue_copper_moquette": "Blue Copper Moquette",
+
+	"block.beautifulcarpets.cobaltblue_gold_moquette": "Cobalt Blue Gold Moquette",
+	"block.beautifulcarpets.cobaltblue_silver_moquette": "Cobalt Blue Silver Moquette",
+	"block.beautifulcarpets.cobaltblue_copper_moquette": "Cobalt Blue Copper Moquette",
+
+	"block.beautifulcarpets.midnight_gold_moquette": "Midnight Gold Moquette",
+	"block.beautifulcarpets.midnight_silver_moquette": "Midnight Silver Moquette",
+	"block.beautifulcarpets.midnight_copper_moquette": "Midnight Copper Moquette",
+
+	"block.beautifulcarpets.violet_gold_moquette": "Violet Gold Moquette",
+	"block.beautifulcarpets.violet_silver_moquette": "Violet Silver Moquette",
+	"block.beautifulcarpets.violet_copper_moquette": "Violet Copper Moquette",
+
+	"block.beautifulcarpets.purple_gold_moquette": "Purple Gold Moquette",
+	"block.beautifulcarpets.purple_silver_moquette": "Purple Silver Moquette",
+	"block.beautifulcarpets.purple_copper_moquette": "Purple Copper Moquette",
+
+	"block.beautifulcarpets.orchid_gold_moquette": "Orchid Gold Moquette",
+	"block.beautifulcarpets.orchid_silver_moquette": "Orchid Silver Moquette",
+	"block.beautifulcarpets.orchid_copper_moquette": "Orchid Copper Moquette",
+
+	"block.beautifulcarpets.black_gold_moquette": "Black Gold Moquette",
+	"block.beautifulcarpets.black_silver_moquette": "Black Silver Moquette",
+	"block.beautifulcarpets.black_copper_moquette": "Black Copper Moquette",
+
+	"block.beautifulcarpets.gray_gold_moquette": "Gray Gold Moquette",
+	"block.beautifulcarpets.gray_silver_moquette": "Gray Silver Moquette",
+	"block.beautifulcarpets.gray_copper_moquette": "Gray Copper Moquette",
+
+
+	"block.beautifulcarpets.red_gold_moquette_carpet": "Red Gold Moquette Carpet",
+	"block.beautifulcarpets.red_silver_moquette_carpet": "Red Silver Moquette Carpet",
+	"block.beautifulcarpets.red_copper_moquette_carpet": "Red Copper Moquette Carpet",
+
+	"block.beautifulcarpets.orange_gold_moquette_carpet": "Orange Gold Moquette Carpet",
+	"block.beautifulcarpets.orange_silver_moquette_carpet": "Orange Silver Moquette Carpet",
+	"block.beautifulcarpets.orange_copper_moquette_carpet": "Orange Copper Moquette Carpet",
+
+	"block.beautifulcarpets.yellow_gold_moquette_carpet": "Yellow Gold Moquette Carpet",
+	"block.beautifulcarpets.yellow_silver_moquette_carpet": "Yellow Silver Moquette Carpet",
+	"block.beautifulcarpets.yellow_copper_moquette_carpet": "Yellow Copper Moquette Carpet",
+
+	"block.beautifulcarpets.olive_gold_moquette_carpet": "Olive Gold Moquette Carpet",
+	"block.beautifulcarpets.olive_silver_moquette_carpet": "Olive Silver Moquette Carpet",
+	"block.beautifulcarpets.olive_copper_moquette_carpet": "Olive Copper Moquette Carpet",
+
+	"block.beautifulcarpets.green_gold_moquette_carpet": "Green Gold Moquette Carpet",
+	"block.beautifulcarpets.green_silver_moquette_carpet": "Green Silver Moquette Carpet",
+	"block.beautifulcarpets.green_copper_moquette_carpet": "Green Copper Moquette Carpet",
+
+	"block.beautifulcarpets.seagreen_gold_moquette_carpet": "Seagreen Gold Moquette Carpet",
+	"block.beautifulcarpets.seagreen_silver_moquette_carpet": "Seagreen Silver Moquette Carpet",
+	"block.beautifulcarpets.seagreen_copper_moquette_carpet": "Seagreen Copper Moquette Carpet",
+
+	"block.beautifulcarpets.emerald_gold_moquette_carpet": "Emerald Gold Moquette Carpet",
+	"block.beautifulcarpets.emerald_silver_moquette_carpet": "Emerald Silver Moquette Carpet",
+	"block.beautifulcarpets.emerald_copper_moquette_carpet": "Emerald Copper Moquette Carpet",
+
+	"block.beautifulcarpets.aquamarine_gold_moquette_carpet": "Aquamarine Gold Moquette Carpet",
+	"block.beautifulcarpets.aquamarine_silver_moquette_carpet": "Aquamarine Silver Moquette Carpet",
+	"block.beautifulcarpets.aquamarine_copper_moquette_carpet": "Aquamarine Copper Moquette Carpet",
+
+	"block.beautifulcarpets.blue_gold_moquette_carpet": "Blue Gold Moquette Carpet",
+	"block.beautifulcarpets.blue_silver_moquette_carpet": "Blue Silver Moquette Carpet",
+	"block.beautifulcarpets.blue_copper_moquette_carpet": "Blue Copper Moquette Carpet",
+
+	"block.beautifulcarpets.cobaltblue_gold_moquette_carpet": "Cobalt Blue Gold Moquette Carpet",
+	"block.beautifulcarpets.cobaltblue_silver_moquette_carpet": "Cobalt Blue Silver Moquette Carpet",
+	"block.beautifulcarpets.cobaltblue_copper_moquette_carpet": "Cobalt Blue Copper Moquette Carpet",
+
+	"block.beautifulcarpets.midnight_gold_moquette_carpet": "Midnight Gold Moquette Carpet",
+	"block.beautifulcarpets.midnight_silver_moquette_carpet": "Midnight Silver Moquette Carpet",
+	"block.beautifulcarpets.midnight_copper_moquette_carpet": "Midnight Copper Moquette Carpet",
+
+	"block.beautifulcarpets.violet_gold_moquette_carpet": "Violet Gold Moquette Carpet",
+	"block.beautifulcarpets.violet_silver_moquette_carpet": "Violet Silver Moquette Carpet",
+	"block.beautifulcarpets.violet_copper_moquette_carpet": "Violet Copper Moquette Carpet",
+
+	"block.beautifulcarpets.purple_gold_moquette_carpet": "Purple Gold Moquette Carpet",
+	"block.beautifulcarpets.purple_silver_moquette_carpet": "Purple Silver Moquette Carpet",
+	"block.beautifulcarpets.purple_copper_moquette_carpet": "Purple Copper Moquette Carpet",
+
+	"block.beautifulcarpets.orchid_gold_moquette_carpet": "Orchid Gold Moquette Carpet",
+	"block.beautifulcarpets.orchid_silver_moquette_carpet": "Orchid Silver Moquette Carpet",
+	"block.beautifulcarpets.orchid_copper_moquette_carpet": "Orchid Copper Moquette Carpet",
+
+	"block.beautifulcarpets.black_gold_moquette_carpet": "Black Gold Moquette Carpet",
+	"block.beautifulcarpets.black_silver_moquette_carpet": "Black Silver Moquette Carpet",
+	"block.beautifulcarpets.black_copper_moquette_carpet": "Black Copper Moquette Carpet",
+
+	"block.beautifulcarpets.gray_gold_moquette_carpet": "Gray Gold Moquette Carpet",
+	"block.beautifulcarpets.gray_silver_moquette_carpet": "Gray Silver Moquette Carpet",
+	"block.beautifulcarpets.gray_copper_moquette_carpet": "Gray Copper Moquett Carpete"
 }

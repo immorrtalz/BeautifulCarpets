@@ -1,5 +1,132 @@
 {
 	"itemGroup.beautifulcarpets": "BeautifulCarpets",
-	"block.beautifulcarpets.red_moquette": "Красный Мокетт",
-	"block.beautifulcarpets.red_moquette_carpet": "Красный Ковровый Мокетт"
+
+	"block.beautifulcarpets.red_gold_moquette": "Красный Золотой Мокетт",
+	"block.beautifulcarpets.red_silver_moquette": "Красный Серебряный Мокетт",
+	"block.beautifulcarpets.red_copper_moquette": "Красный Медный Мокетт",
+
+	"block.beautifulcarpets.orange_gold_moquette": "Оранжевый Золотой Мокетт",
+	"block.beautifulcarpets.orange_silver_moquette": "Оранжевый Серебряный Мокетт",
+	"block.beautifulcarpets.orange_copper_moquette": "Оранжевый Медный Мокетт",
+
+	"block.beautifulcarpets.yellow_gold_moquette": "Жёлтый Золотой Мокетт",
+	"block.beautifulcarpets.yellow_silver_moquette": "Жёлтый Серебряный Мокетт",
+	"block.beautifulcarpets.yellow_copper_moquette": "Жёлтый Медный Мокетт",
+
+	"block.beautifulcarpets.olive_gold_moquette": "Оливковый Золотой Мокетт",
+	"block.beautifulcarpets.olive_silver_moquette": "Оливковый Серебряный Мокетт",
+	"block.beautifulcarpets.olive_copper_moquette": "Оливковый Медный Мокетт",
+
+	"block.beautifulcarpets.green_gold_moquette": "Зелёный Золотой Мокетт",
+	"block.beautifulcarpets.green_silver_moquette": "Зелёный Серебряный Мокетт",
+	"block.beautifulcarpets.green_copper_moquette": "Зелёный Медный Мокетт",
+
+	"block.beautifulcarpets.seagreen_gold_moquette": "Морской зелёный Золотой Мокетт",
+	"block.beautifulcarpets.seagreen_silver_moquette": "Морской зелёный Серебряный Мокетт",
+	"block.beautifulcarpets.seagreen_copper_moquette": "Морской зелёный Медный Мокетт",
+
+	"block.beautifulcarpets.emerald_gold_moquette": "Изумрудный Золотой Мокетт",
+	"block.beautifulcarpets.emerald_silver_moquette": "Изумрудный Серебряный Мокетт",
+	"block.beautifulcarpets.emerald_copper_moquette": "Изумрудный Медный Мокетт",
+
+	"block.beautifulcarpets.aquamarine_gold_moquette": "Аквамариновый Золотой Мокетт",
+	"block.beautifulcarpets.aquamarine_silver_moquette": "Аквамариновый Серебряный Мокетт",
+	"block.beautifulcarpets.aquamarine_copper_moquette": "Аквамариновый Медный Мокетт",
+
+	"block.beautifulcarpets.blue_gold_moquette": "Синий Золотой Мокетт",
+	"block.beautifulcarpets.blue_silver_moquette": "Синий Серебряный Мокетт",
+	"block.beautifulcarpets.blue_copper_moquette": "Синий Медный Мокетт",
+
+	"block.beautifulcarpets.cobaltblue_gold_moquette": "Кобальтовый Синий Золотой Мокетт",
+	"block.beautifulcarpets.cobaltblue_silver_moquette": "Кобальтовый Синий Серебряный Мокетт",
+	"block.beautifulcarpets.cobaltblue_copper_moquette": "Кобальтовый Синий Медный Мокетт",
+
+	"block.beautifulcarpets.midnight_gold_moquette": "Полуночный Золотой Мокетт",
+	"block.beautifulcarpets.midnight_silver_moquette": "Полуночный Серебряный Мокетт",
+	"block.beautifulcarpets.midnight_copper_moquette": "Полуночный Медный Мокетт",
+
+	"block.beautifulcarpets.violet_gold_moquette": "Фиолетовый Золотой Мокетт",
+	"block.beautifulcarpets.violet_silver_moquette": "Фиолетовый Серебряный Мокетт",
+	"block.beautifulcarpets.violet_copper_moquette": "Фиолетовый Медный Мокетт",
+
+	"block.beautifulcarpets.purple_gold_moquette": "Пурпурный Золотой Мокетт",
+	"block.beautifulcarpets.purple_silver_moquette": "Пурпурный Серебряный Мокетт",
+	"block.beautifulcarpets.purple_copper_moquette": "Пурпурный Медный Мокетт",
+
+	"block.beautifulcarpets.orchid_gold_moquette": "Орхидеевый Золотой Мокетт",
+	"block.beautifulcarpets.orchid_silver_moquette": "Орхидеевый Серебряный Мокетт",
+	"block.beautifulcarpets.orchid_copper_moquette": "Орхидеевый Медный Мокетт",
+
+	"block.beautifulcarpets.black_gold_moquette": "Чёрный Золотой Мокетт",
+	"block.beautifulcarpets.black_silver_moquette": "Чёрный Серебряный Мокетт",
+	"block.beautifulcarpets.black_copper_moquette": "Чёрный Медный Мокетт",
+
+	"block.beautifulcarpets.gray_gold_moquette": "Серый Золотой Мокетт",
+	"block.beautifulcarpets.gray_silver_moquette": "Серый Серебряный Мокетт",
+	"block.beautifulcarpets.gray_copper_moquette": "Серый Медный Мокетт",
+
+
+	"block.beautifulcarpets.red_gold_moquette_carpet": "Красный Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.red_silver_moquette_carpet": "Красный Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.red_copper_moquette_carpet": "Красный Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.orange_gold_moquette_carpet": "Оранжевый Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.orange_silver_moquette_carpet": "Оранжевый Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.orange_copper_moquette_carpet": "Оранжевый Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.yellow_gold_moquette_carpet": "Жёлтый Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.yellow_silver_moquette_carpet": "Жёлтый Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.yellow_copper_moquette_carpet": "Жёлтый Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.olive_gold_moquette_carpet": "Оливковый Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.olive_silver_moquette_carpet": "Оливковый Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.olive_copper_moquette_carpet": "Оливковый Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.green_gold_moquette_carpet": "Зелёный Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.green_silver_moquette_carpet": "Зелёный Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.green_copper_moquette_carpet": "Зелёный Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.seagreen_gold_moquette_carpet": "Морской зелёный Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.seagreen_silver_moquette_carpet": "Морской зелёный Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.seagreen_copper_moquette_carpet": "Морской зелёный Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.emerald_gold_moquette_carpet": "Изумрудный Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.emerald_silver_moquette_carpet": "Изумрудный Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.emerald_copper_moquette_carpet": "Изумрудный Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.aquamarine_gold_moquette_carpet": "Аквамариновый Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.aquamarine_silver_moquette_carpet": "Аквамариновый Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.aquamarine_copper_moquette_carpet": "Аквамариновый Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.blue_gold_moquette_carpet": "Синий Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.blue_silver_moquette_carpet": "Синий Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.blue_copper_moquette_carpet": "Синий Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.cobaltblue_gold_moquette_carpet": "Кобальтовый Синий Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.cobaltblue_silver_moquette_carpet": "Кобальтовый Синий Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.cobaltblue_copper_moquette_carpet": "Кобальтовый Синий Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.midnight_gold_moquette_carpet": "Полуночный Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.midnight_silver_moquette_carpet": "Полуночный Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.midnight_copper_moquette_carpet": "Полуночный Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.violet_gold_moquette_carpet": "Фиолетовый Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.violet_silver_moquette_carpet": "Фиолетовый Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.violet_copper_moquette_carpet": "Фиолетовый Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.purple_gold_moquette_carpet": "Пурпурный Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.purple_silver_moquette_carpet": "Пурпурный Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.purple_copper_moquette_carpet": "Пурпурный Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.orchid_gold_moquette_carpet": "Орхидеевый Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.orchid_silver_moquette_carpet": "Орхидеевый Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.orchid_copper_moquette_carpet": "Орхидеевый Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.black_gold_moquette_carpet": "Чёрный Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.black_silver_moquette_carpet": "Чёрный Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.black_copper_moquette_carpet": "Чёрный Медный Ковровый Мокетт",
+
+	"block.beautifulcarpets.gray_gold_moquette_carpet": "Серый Золотой Ковровый Мокетт",
+	"block.beautifulcarpets.gray_silver_moquette_carpet": "Серый Серебряный Ковровый Мокетт",
+	"block.beautifulcarpets.gray_copper_moquette_carpet": "Серый Медный Ковровый Мокетт"
 }

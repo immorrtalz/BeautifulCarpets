@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures":
+	{
+		"all": "beautifulcarpets:block/olive_copper_moquette"
+	}
+}
