@@ -3,8 +3,8 @@
 [![Total Downloads on GitHub](https://img.shields.io/github/downloads/immorrtalz/BeautifulCarpets/total?label=total%20downloads%20on%20GitHub&color=blue)](https://github.com/immorrtalz/BeautifulCarpets/releases)
 [![License](https://img.shields.io/badge/license-GPL%20v3-goldenrod)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-[![Available for](https://img.shields.io/badge/available%20for-NeoForge-orange)](https://modrinth.com/mod/bordersonxaeromap/versions)
-[![Available for](https://img.shields.io/badge/available%20for-1.21.1-red)](https://modrinth.com/mod/bordersonxaeromap/versions)
+[![Available for](https://img.shields.io/badge/available%20for-NeoForge-orange)](https://modrinth.com/mod/beautifulcarpets/versions)
+[![Available for](https://img.shields.io/badge/available%20for-1.21.1-red)](https://modrinth.com/mod/beautifulcarpets/versions)
 
 ---
 
