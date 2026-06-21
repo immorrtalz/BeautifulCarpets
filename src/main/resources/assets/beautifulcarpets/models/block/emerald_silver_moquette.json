@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:block/cube_all",
-	"textures":
-	{
-		"all": "beautifulcarpets:block/emerald_silver_moquette"
+		"parent": "minecraft:block/cube_all",
+		"textures":
+		{
+			"all": "beautifulcarpets:block/emerald_silver_moquette"
+		}
 	}
-}

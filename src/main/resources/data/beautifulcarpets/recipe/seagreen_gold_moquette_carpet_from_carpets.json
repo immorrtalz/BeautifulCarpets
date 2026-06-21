@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{
+			"item": "minecraft:green_carpet"
+		},
+		{
+			"item": "minecraft:green_carpet"
+		},
+		{
+			"item": "minecraft:green_carpet"
+		},
+		{
+			"tag": "c:nuggets/gold"
+		},
+		{
+			"tag": "c:nuggets/gold"
+		}
+	],
+	"result":
+	{
+		"count": 3,
+		"id": "beautifulcarpets:seagreen_gold_moquette_carpet"
+	}
+}

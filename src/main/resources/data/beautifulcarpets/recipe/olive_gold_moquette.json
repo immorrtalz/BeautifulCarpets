@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{
+			"item": "beautifulcarpets:yellow_gold_moquette"
+		},
+		{
+			"item": "beautifulcarpets:green_gold_moquette"
+		}
+	],
+	"result":
+	{
+		"count": 2,
+		"id": "beautifulcarpets:olive_gold_moquette"
+	}
+}

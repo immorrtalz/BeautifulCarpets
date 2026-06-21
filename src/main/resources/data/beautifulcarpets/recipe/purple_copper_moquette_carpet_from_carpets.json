@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{
+			"item": "minecraft:magenta_carpet"
+		},
+		{
+			"item": "minecraft:magenta_carpet"
+		},
+		{
+			"item": "minecraft:magenta_carpet"
+		},
+		{
+			"tag": "c:nuggets/copper"
+		},
+		{
+			"tag": "c:nuggets/copper"
+		}
+	],
+	"result":
+	{
+		"count": 3,
+		"id": "beautifulcarpets:purple_copper_moquette_carpet"
+	}
+}

@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:block/carpet",
-	"textures":
-	{
-		"wool": "beautifulcarpets:block/yellow_silver_moquette"
+		"parent": "minecraft:block/carpet",
+		"textures":
+		{
+			"wool": "beautifulcarpets:block/yellow_silver_moquette"
+		}
 	}
-}

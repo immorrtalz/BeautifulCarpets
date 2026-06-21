@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "carpet",
+	"key":
+	{
+		"#":
+		{
+			"item": "beautifulcarpets:purple_silver_moquette"
+		}
+	},
+	"pattern": ["##"],
+	"result":
+	{
+		"count": 3,
+		"id": "beautifulcarpets:purple_silver_moquette_carpet"
+	}
+}

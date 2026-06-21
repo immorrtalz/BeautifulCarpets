@@ -15,23 +15,29 @@ This mod adds beautiful carpets, inspired by [doctor4t](https://modrinth.com/use
 <img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/promo/screenshots/1.png" alt="All blocks"/>
 
 ## ✨ Blocks
-- 16 colors moquettes - as carpets and blocks (so could be used with something like Copycats):
-  1. red
-  2. orange
-  3. yellow
-  4. olive
-  5. green
-  6. seagreen
-  7. emerald
-  8. aquamarine
-  9. blue
-  10. cobaltblue
-  11. midnight
-  12. violet
-  13. purple
-  14. orchid
-  15. black
-  16. gray
+- 16 colors moquettes - as carpets and blocks (so could be used with something like Copycats):\
+**red**, **orange**, **yellow**, **olive**, **green**, **seagreen**, **emerald**, **aquamarine**, **blue**, **cobaltblue**, **midnight**, **violet**, **purple**, **orchid**, **black** and **gray**.\
+Each color variant has 3 variations of the ornament color: **gold**, **silver** and **copper** *(the silver one is actually iron, hehehe... maybe I should rename it...)*.\
+
+  #### **Colors used in crafting**:
+  vanilla red => red\
+  vanilla orange => orange\
+  vanilla yellow => yellow\
+  vanilla yellow + vanilla green => olive\
+  vanilla green => green\
+  vanilla green + emerald (vanilla cyan) => seagreen\
+  vanilla cyan => emerald\
+  vanilla light blue => aquamarine\
+  vanilla blue => blue\
+  vanilla blue + emerald (vanilla cyan) => cobaltblue\
+  vanilla blue + violet (vanilla purple) => midnight\
+  vanilla purple => violet\
+  vanilla magenta => purple\
+  vanilla pink => orchid\
+  vanilla black => black\
+  vanilla gray => gray
+
+  So, to shapelessly craft a **red copper moquette**, you'd need a red wool and a copper nugget (this mod should be compatible with any mod, which adds a copper nugget with a tag `c:nuggets/copper`, for example, [Create](https://modrinth.com/mod/create) or Minecraft itself - 1.21.9 and higher).
 
 ## 📫 Contacts
 If you have any questions or suggestions, you could open an issue on [GitHub](https://github.com/immorrtalz/BeautifulCarpets/issues) or contact me in Discord (`@immorrtalz`) or [Telegram (`@immorrtalz`)](https://t.me/immorrtalz)
