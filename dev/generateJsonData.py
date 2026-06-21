@@ -1,216 +1,143 @@
+import os
+
+PROJECT_DIRECTORY = os.getcwd()
 MOD_ID = "beautifulcarpets"
-MOD_ASSETS_PATH = f"..\\src\\main\\resources\\assets\\{MOD_ID}"
-MOD_DATA_PATH = f"..\\src\\main\\resources\\data\\{MOD_ID}"
+MOD_ASSETS_PATH = f"{PROJECT_DIRECTORY}/src/main/resources/assets/{MOD_ID}"
+MOD_DATA_PATH = f"{PROJECT_DIRECTORY}/src/main/resources/data/{MOD_ID}"
+MOD_TEXTURES_PATH = f"{PROJECT_DIRECTORY}/src/main/resources/assets/{MOD_ID}/textures/block"
 
-colorPalette = [
-	[
-		"red",
-		["red"]
-	],
-	[
-		"orange",
-		["orange"]
-	],
-	[
-		"yellow",
-		["yellow"]
-	],
-	[
-		"olive",
-		["yellow", "green"]
-	],
-	[
-		"green",
-		["green"]
-	],
-	[
-		"seagreen",
-		["green", "emerald"]
-	],
-	[
-		"emerald",
-		["cyan"]
-	],
-	[
-		"aquamarine",
-		["light_blue"]
-	],
-	[
-		"blue",
-		["blue"]
-	],
-	[
-		"cobaltblue",
-		["blue", "emerald"]
-	],
-	[
-		"midnight",
-		["blue", "violet"]
-	],
-	[
-		"violet",
-		["purple"]
-	],
-	[
-		"purple",
-		["magenta"]
-	],
-	[
-		"orchid",
-		["pink"]
-	],
-	[
-		"black",
-		["black"]
-	],
-	[
-		"gray",
-		["gray"]
-	]
-]
+def getMoquetteId(color, ornamentMaterial):
+	return f"{MOD_ID}:{color}_{ornamentMaterial}_moquette"
 
-ornamentTypes = ["gold", "silver", "copper"]
-ornamentTags = ["c:nuggets/gold", "c:nuggets/iron", "c:nuggets/copper"]
+colors = ["red", "orange", "yellow", "lime", "green", "cyan", "light_blue", "blue", "purple", "magenta", "pink", "brown", "black", "gray", "light_gray", "white"]
+ornamentMaterials = ["gold", "iron", "copper"]
 
-def getBlockstatesJson(modColor, ornamentType, isCarpet):
+def getBlockstatesJson(color, ornamentMaterial, carpetEnding):
 	return f"""{{
 	"variants":
 	{{
-		"": {{ "model": "{MOD_ID}:block/{modColor}_{ornamentType}_moquette{'_carpet' if isCarpet else ''}" }}
+		"": {{ "model": "{MOD_ID}:block/{color}_{ornamentMaterial}_moquette{carpetEnding}" }}
 	}}
 }}"""
 
-def getBlockModelJson(modColor, ornamentType, isCarpet):
+def getBlockModelJson(color, ornamentMaterial, isCarpet):
 	return f"""{{
 		"parent": "minecraft:block/{'carpet' if isCarpet else 'cube_all'}",
-		"textures": {{ "{'wool' if isCarpet else 'all'}": "{MOD_ID}:block/{modColor}_{ornamentType}_moquette" }}
+		"textures": {{ "{'wool' if isCarpet else 'all'}": "{MOD_ID}:block/moquette/{ornamentMaterial}/{color}_{ornamentMaterial}_moquette" }}
 	}}"""
 
-def getItemModelJson(modColor, ornamentType, isCarpet):
+def getItemModelJson(color, ornamentMaterial, carpetEnding):
 	return f"""{{
-		"parent": "{MOD_ID}:block/{modColor}_{ornamentType}_moquette{'_carpet' if isCarpet else ''}"
+		"parent": "{MOD_ID}:block/{color}_{ornamentMaterial}_moquette{carpetEnding}"
 	}}"""
 
-def getMoquetteCraftJson(modColorIndex, ornamentIndex):
-	modColor = colorPalette[modColorIndex][0]
-	colors = colorPalette[modColorIndex][1]
-	ornamentType = ornamentTypes[ornamentIndex]
-	ornamentTag = ornamentTags[ornamentIndex]
-
-	if len(colors) == 1:
-		return f"""{{
+def getMoquetteCraftJson(color, ornamentMaterial):
+	return f"""{{
 	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
 	"group": "carpet",
 	"ingredients": [
-		{{ "tag": "{ornamentTag}" }},
-		{{ "item": "minecraft:{colors[0]}_wool" }}
+		{{ "tag": "c:nuggets/{ornamentMaterial}" }},
+		{{ "item": "minecraft:{color}_wool" }}
 	],
 	"result":
 	{{
 		"count": 1,
-		"id": "{MOD_ID}:{modColor}_{ornamentType}_moquette"
+		"id": "{getMoquetteId(color, ornamentMaterial)}"
 	}}
 }}"""
-	elif len(colors) == 2:
-		return f"""{{
-	"type": "minecraft:crafting_shapeless",
-	"category": "misc",
-	"group": "carpet",
-	"ingredients": [
-		{{ "item": "{MOD_ID}:{colors[0]}_{ornamentType}_moquette" }},
-		{{ "item": "{MOD_ID}:{colors[1]}_{ornamentType}_moquette" }}
-	],
-	"result":
-	{{
-		"count": 2,
-		"id": "{MOD_ID}:{modColor}_{ornamentType}_moquette"
-	}}
-}}"""
-	else:
-		print("Watch your palette - a color must consist of at least 1, and 2 at maximum colors")
-		return ""
 
-def getMoquetteCarpetCraftJson(modColor, ornamentType):
+def getMoquetteCarpetCraftJson(color, ornamentMaterial):
 	return f"""{{
 	"type": "minecraft:crafting_shaped",
 	"category": "misc",
 	"group": "carpet",
 	"key":
 	{{
-		"#": {{ "item": "{MOD_ID}:{modColor}_{ornamentType}_moquette" }}
+		"#": {{ "item": "{getMoquetteId(color, ornamentMaterial)}" }}
 	}},
 	"pattern": ["##"],
 	"result":
 	{{
 		"count": 3,
-		"id": "{MOD_ID}:{modColor}_{ornamentType}_moquette_carpet"
+		"id": "{getMoquetteId(color, ornamentMaterial)}_carpet"
 	}}
 }}"""
 
-def getMoquetteCarpetCraftFromCarpetsJson(modColorIndex, ornamentIndex):
-	modColor = colorPalette[modColorIndex][0]
-	colors = colorPalette[modColorIndex][1]
-	ornamentType = ornamentTypes[ornamentIndex]
-	ornamentTag = ornamentTags[ornamentIndex]
-
+def getMoquetteCarpetCraftFromCarpetsJson(color, ornamentMaterial):
 	return f"""{{
 	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
 	"group": "carpet",
 	"ingredients": [
-		{{ "item": "minecraft:{colors[0]}_carpet" }},
-		{{ "item": "minecraft:{colors[0]}_carpet" }},
-		{{ "item": "minecraft:{colors[0]}_carpet" }},
-		{{ "tag": "{ornamentTag}" }},
-		{{ "tag": "{ornamentTag}" }}
+		{{ "item": "minecraft:{color}_carpet" }},
+		{{ "item": "minecraft:{color}_carpet" }},
+		{{ "item": "minecraft:{color}_carpet" }},
+		{{ "tag": "c:nuggets/{ornamentMaterial}" }},
+		{{ "tag": "c:nuggets/{ornamentMaterial}" }}
 	],
 	"result":
 	{{
 		"count": 3,
-		"id": "{MOD_ID}:{modColor}_{ornamentType}_moquette_carpet"
+		"id": "{getMoquetteId(color, ornamentMaterial)}_carpet"
 	}}
 }}"""
 
-counter = 0
+def writeToFile(filePath, content):
+	with open(filePath, "w", encoding="utf-8") as f:
+		f.write(content)
 
-for colorIndex in range(len(colorPalette)):
-	for ornamentIndex in range(len(ornamentTypes)):
-		for carpetOrNot in range(2):
-			modColor = colorPalette[colorIndex][0]
-			ornamentType = ornamentTypes[ornamentIndex]
-			isCarpet = carpetOrNot == 1
-			filename = f"{modColor}_{ornamentType}_moquette{'_carpet' if isCarpet else ''}"
+def main():
+	counter = 0
+	filesCounter = 0
 
-			# Blockstates
-			f = open(f"{MOD_ASSETS_PATH}\\blockstates\\{filename}.json", "w", encoding="utf-8")
-			f.write(getBlockstatesJson(modColor, ornamentType, isCarpet))
-			f.close()
+	for color in colors:
+		for ornamentMaterial in ornamentMaterials:
+			for carpetOrNot in range(2):
+				isCarpet = carpetOrNot == 1
+				carpetEnding = "_carpet" if isCarpet else ""
+				filename = f"{color}_{ornamentMaterial}_moquette{carpetEnding}"
 
-			# Block model
-			f = open(f"{MOD_ASSETS_PATH}\\models\\block\\{filename}.json", "w", encoding="utf-8")
-			f.write(getBlockModelJson(modColor, ornamentType, isCarpet))
-			f.close()
+				# Blockstates
+				writeToFile(f"{MOD_ASSETS_PATH}/blockstates/{filename}.json", getBlockstatesJson(color, ornamentMaterial, carpetEnding))
 
-			# Item model
-			f = open(f"{MOD_ASSETS_PATH}\\models\\item\\{filename}.json", "w", encoding="utf-8")
-			f.write(getItemModelJson(modColor, ornamentType, isCarpet))
-			f.close()
+				# Block model
+				writeToFile(f"{MOD_ASSETS_PATH}/models/block/{filename}.json", getBlockModelJson(color, ornamentMaterial, isCarpet))
 
-			recipeFilePath = f"{MOD_DATA_PATH}\\recipe\\{filename}.json"
+				# Item model
+				writeToFile(f"{MOD_ASSETS_PATH}/models/item/{filename}.json", getItemModelJson(color, ornamentMaterial, carpetEnding))
 
-			if isCarpet:
+				recipeFilePath = f"{MOD_DATA_PATH}/recipe/{filename}.json"
+
 				# Carpets crafts
-				with open(recipeFilePath, "w", encoding="utf-8") as f:
-					f.write(getMoquetteCarpetCraftJson(modColor, ornamentType))
-
-				with open(f"{recipeFilePath.replace('.json', '_from_carpets.json')}", "w", encoding="utf-8") as f:
-					f.write(getMoquetteCarpetCraftFromCarpetsJson(colorIndex, ornamentIndex))
-			else:
+				if isCarpet:
+					writeToFile(recipeFilePath, getMoquetteCarpetCraftJson(color, ornamentMaterial))
+					writeToFile(f"{recipeFilePath.replace('.json', '_from_carpets.json')}", getMoquetteCarpetCraftFromCarpetsJson(color, ornamentMaterial))
 				# Blocks crafts
-				with open(recipeFilePath, "w", encoding="utf-8") as f:
-					f.write(getMoquetteCraftJson(colorIndex, ornamentIndex))
+				else: writeToFile(recipeFilePath, getMoquetteCraftJson(color, ornamentMaterial))
 
+				counter += 1
+				filesCounter += 6
+
+	print(f"Generated data for {counter} items ({filesCounter} files)")
+
+def renameImages():
+	counter = 0
+	fullCounter = 0
+
+	for ornamentMaterial in ornamentMaterials:
+		path = f"{MOD_TEXTURES_PATH}/moquette/{ornamentMaterial}"
+		files = [f for f in os.listdir(f"{MOD_TEXTURES_PATH}/moquette/{ornamentMaterial}/") if os.path.isfile(f"{MOD_TEXTURES_PATH}/moquette/{ornamentMaterial}/{f}")]
+
+		for colorIndex in range(len(colors)):
+			filename = f"{colors[colorIndex]}_{ornamentMaterial}_moquette.png"
+
+			os.rename(f"{path}/moquette{f'-{colorIndex}' if colorIndex > 0 else ''}.png", f"{path}/{filename}")
 			counter += 1
 
-print(f"Generated data for {counter} items")
+		fullCounter += len(files)
+
+	print(f"Renamed {counter} images (out of {fullCounter})")
+
+main()
+renameImages()

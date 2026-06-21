@@ -3,21 +3,11 @@
 	"category": "misc",
 	"group": "carpet",
 	"ingredients": [
-		{
-			"item": "minecraft:gray_carpet"
-		},
-		{
-			"item": "minecraft:gray_carpet"
-		},
-		{
-			"item": "minecraft:gray_carpet"
-		},
-		{
-			"tag": "c:nuggets/gold"
-		},
-		{
-			"tag": "c:nuggets/gold"
-		}
+		{ "item": "minecraft:gray_carpet" },
+		{ "item": "minecraft:gray_carpet" },
+		{ "item": "minecraft:gray_carpet" },
+		{ "tag": "c:nuggets/gold" },
+		{ "tag": "c:nuggets/gold" }
 	],
 	"result":
 	{

@@ -3,12 +3,8 @@
 	"category": "misc",
 	"group": "carpet",
 	"ingredients": [
-		{
-			"tag": "c:nuggets/copper"
-		},
-		{
-			"item": "minecraft:yellow_wool"
-		}
+		{ "tag": "c:nuggets/copper" },
+		{ "item": "minecraft:yellow_wool" }
 	],
 	"result":
 	{

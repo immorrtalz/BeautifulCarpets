@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{ "item": "minecraft:light_gray_carpet" },
+		{ "item": "minecraft:light_gray_carpet" },
+		{ "item": "minecraft:light_gray_carpet" },
+		{ "tag": "c:nuggets/copper" },
+		{ "tag": "c:nuggets/copper" }
+	],
+	"result":
+	{
+		"count": 3,
+		"id": "beautifulcarpets:light_gray_copper_moquette_carpet"
+	}
+}

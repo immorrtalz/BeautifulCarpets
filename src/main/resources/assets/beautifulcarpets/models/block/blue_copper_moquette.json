@@ -1,7 +1,4 @@
 {
 		"parent": "minecraft:block/cube_all",
-		"textures":
-		{
-			"all": "beautifulcarpets:block/blue_copper_moquette"
-		}
+		"textures": { "all": "beautifulcarpets:block/moquette/copper/blue_copper_moquette" }
 	}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{ "tag": "c:nuggets/copper" },
+		{ "item": "minecraft:pink_wool" }
+	],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:pink_copper_moquette"
+	}
+}

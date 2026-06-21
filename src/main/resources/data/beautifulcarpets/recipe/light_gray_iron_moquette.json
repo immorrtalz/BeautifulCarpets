@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{ "tag": "c:nuggets/iron" },
+		{ "item": "minecraft:light_gray_wool" }
+	],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:light_gray_iron_moquette"
+	}
+}

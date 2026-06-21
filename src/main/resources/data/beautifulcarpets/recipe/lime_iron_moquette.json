@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{ "tag": "c:nuggets/iron" },
+		{ "item": "minecraft:lime_wool" }
+	],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:lime_iron_moquette"
+	}
+}

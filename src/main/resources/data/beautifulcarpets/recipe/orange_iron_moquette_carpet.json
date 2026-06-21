@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "carpet",
+	"key":
+	{
+		"#": { "item": "beautifulcarpets:orange_iron_moquette" }
+	},
+	"pattern": ["##"],
+	"result":
+	{
+		"count": 3,
+		"id": "beautifulcarpets:orange_iron_moquette_carpet"
+	}
+}

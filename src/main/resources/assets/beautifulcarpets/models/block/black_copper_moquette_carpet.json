@@ -1,7 +1,4 @@
 {
 		"parent": "minecraft:block/carpet",
-		"textures":
-		{
-			"wool": "beautifulcarpets:block/black_copper_moquette"
-		}
+		"textures": { "wool": "beautifulcarpets:block/moquette/copper/black_copper_moquette" }
 	}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{ "tag": "c:nuggets/gold" },
+		{ "item": "minecraft:magenta_wool" }
+	],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:magenta_gold_moquette"
+	}
+}

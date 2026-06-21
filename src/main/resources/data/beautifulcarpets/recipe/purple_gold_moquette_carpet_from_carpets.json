@@ -3,21 +3,11 @@
 	"category": "misc",
 	"group": "carpet",
 	"ingredients": [
-		{
-			"item": "minecraft:magenta_carpet"
-		},
-		{
-			"item": "minecraft:magenta_carpet"
-		},
-		{
-			"item": "minecraft:magenta_carpet"
-		},
-		{
-			"tag": "c:nuggets/gold"
-		},
-		{
-			"tag": "c:nuggets/gold"
-		}
+		{ "item": "minecraft:purple_carpet" },
+		{ "item": "minecraft:purple_carpet" },
+		{ "item": "minecraft:purple_carpet" },
+		{ "tag": "c:nuggets/gold" },
+		{ "tag": "c:nuggets/gold" }
 	],
 	"result":
 	{

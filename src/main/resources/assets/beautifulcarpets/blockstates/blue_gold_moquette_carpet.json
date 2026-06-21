@@ -1,9 +1,6 @@
 {
 	"variants":
 	{
-		"":
-		{
-			"model": "beautifulcarpets:block/blue_gold_moquette_carpet"
-		}
+		"": { "model": "beautifulcarpets:block/blue_gold_moquette_carpet" }
 	}
 }

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{ "tag": "c:nuggets/copper" },
+		{ "item": "minecraft:light_blue_wool" }
+	],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:light_blue_copper_moquette"
+	}
+}

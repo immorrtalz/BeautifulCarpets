@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{ "item": "minecraft:purple_carpet" },
+		{ "item": "minecraft:purple_carpet" },
+		{ "item": "minecraft:purple_carpet" },
+		{ "tag": "c:nuggets/iron" },
+		{ "tag": "c:nuggets/iron" }
+	],
+	"result":
+	{
+		"count": 3,
+		"id": "beautifulcarpets:purple_iron_moquette_carpet"
+	}
+}

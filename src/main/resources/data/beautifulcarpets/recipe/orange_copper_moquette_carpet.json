@@ -4,10 +4,7 @@
 	"group": "carpet",
 	"key":
 	{
-		"#":
-		{
-			"item": "beautifulcarpets:orange_copper_moquette"
-		}
+		"#": { "item": "beautifulcarpets:orange_copper_moquette" }
 	},
 	"pattern": ["##"],
 	"result":

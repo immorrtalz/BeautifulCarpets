@@ -23,133 +23,133 @@ public class ModCreativeTabs
 			.displayItems((params, output) ->
 			{
 				output.accept(ModItems.red_gold_moquette.get());
-				output.accept(ModItems.red_silver_moquette.get());
+				output.accept(ModItems.red_iron_moquette.get());
 				output.accept(ModItems.red_copper_moquette.get());
 
 				output.accept(ModItems.orange_gold_moquette.get());
-				output.accept(ModItems.orange_silver_moquette.get());
+				output.accept(ModItems.orange_iron_moquette.get());
 				output.accept(ModItems.orange_copper_moquette.get());
 
 				output.accept(ModItems.yellow_gold_moquette.get());
-				output.accept(ModItems.yellow_silver_moquette.get());
+				output.accept(ModItems.yellow_iron_moquette.get());
 				output.accept(ModItems.yellow_copper_moquette.get());
 
-				output.accept(ModItems.olive_gold_moquette.get());
-				output.accept(ModItems.olive_silver_moquette.get());
-				output.accept(ModItems.olive_copper_moquette.get());
+				output.accept(ModItems.lime_gold_moquette.get());
+				output.accept(ModItems.lime_iron_moquette.get());
+				output.accept(ModItems.lime_copper_moquette.get());
 
 				output.accept(ModItems.green_gold_moquette.get());
-				output.accept(ModItems.green_silver_moquette.get());
+				output.accept(ModItems.green_iron_moquette.get());
 				output.accept(ModItems.green_copper_moquette.get());
 
-				output.accept(ModItems.seagreen_gold_moquette.get());
-				output.accept(ModItems.seagreen_silver_moquette.get());
-				output.accept(ModItems.seagreen_copper_moquette.get());
+				output.accept(ModItems.cyan_gold_moquette.get());
+				output.accept(ModItems.cyan_iron_moquette.get());
+				output.accept(ModItems.cyan_copper_moquette.get());
 
-				output.accept(ModItems.emerald_gold_moquette.get());
-				output.accept(ModItems.emerald_silver_moquette.get());
-				output.accept(ModItems.emerald_copper_moquette.get());
-
-				output.accept(ModItems.aquamarine_gold_moquette.get());
-				output.accept(ModItems.aquamarine_silver_moquette.get());
-				output.accept(ModItems.aquamarine_copper_moquette.get());
+				output.accept(ModItems.light_blue_gold_moquette.get());
+				output.accept(ModItems.light_blue_iron_moquette.get());
+				output.accept(ModItems.light_blue_copper_moquette.get());
 
 				output.accept(ModItems.blue_gold_moquette.get());
-				output.accept(ModItems.blue_silver_moquette.get());
+				output.accept(ModItems.blue_iron_moquette.get());
 				output.accept(ModItems.blue_copper_moquette.get());
 
-				output.accept(ModItems.cobaltblue_gold_moquette.get());
-				output.accept(ModItems.cobaltblue_silver_moquette.get());
-				output.accept(ModItems.cobaltblue_copper_moquette.get());
-
-				output.accept(ModItems.midnight_gold_moquette.get());
-				output.accept(ModItems.midnight_silver_moquette.get());
-				output.accept(ModItems.midnight_copper_moquette.get());
-
-				output.accept(ModItems.violet_gold_moquette.get());
-				output.accept(ModItems.violet_silver_moquette.get());
-				output.accept(ModItems.violet_copper_moquette.get());
-
 				output.accept(ModItems.purple_gold_moquette.get());
-				output.accept(ModItems.purple_silver_moquette.get());
+				output.accept(ModItems.purple_iron_moquette.get());
 				output.accept(ModItems.purple_copper_moquette.get());
 
-				output.accept(ModItems.orchid_gold_moquette.get());
-				output.accept(ModItems.orchid_silver_moquette.get());
-				output.accept(ModItems.orchid_copper_moquette.get());
+				output.accept(ModItems.magenta_gold_moquette.get());
+				output.accept(ModItems.magenta_iron_moquette.get());
+				output.accept(ModItems.magenta_copper_moquette.get());
+
+				output.accept(ModItems.pink_gold_moquette.get());
+				output.accept(ModItems.pink_iron_moquette.get());
+				output.accept(ModItems.pink_copper_moquette.get());
+
+				output.accept(ModItems.brown_gold_moquette.get());
+				output.accept(ModItems.brown_iron_moquette.get());
+				output.accept(ModItems.brown_copper_moquette.get());
 
 				output.accept(ModItems.black_gold_moquette.get());
-				output.accept(ModItems.black_silver_moquette.get());
+				output.accept(ModItems.black_iron_moquette.get());
 				output.accept(ModItems.black_copper_moquette.get());
 
 				output.accept(ModItems.gray_gold_moquette.get());
-				output.accept(ModItems.gray_silver_moquette.get());
+				output.accept(ModItems.gray_iron_moquette.get());
 				output.accept(ModItems.gray_copper_moquette.get());
+
+				output.accept(ModItems.light_gray_gold_moquette.get());
+				output.accept(ModItems.light_gray_iron_moquette.get());
+				output.accept(ModItems.light_gray_copper_moquette.get());
+
+				output.accept(ModItems.white_gold_moquette.get());
+				output.accept(ModItems.white_iron_moquette.get());
+				output.accept(ModItems.white_copper_moquette.get());
 
 
 				output.accept(ModItems.red_gold_moquette_carpet.get());
-				output.accept(ModItems.red_silver_moquette_carpet.get());
+				output.accept(ModItems.red_iron_moquette_carpet.get());
 				output.accept(ModItems.red_copper_moquette_carpet.get());
 
 				output.accept(ModItems.orange_gold_moquette_carpet.get());
-				output.accept(ModItems.orange_silver_moquette_carpet.get());
+				output.accept(ModItems.orange_iron_moquette_carpet.get());
 				output.accept(ModItems.orange_copper_moquette_carpet.get());
 
 				output.accept(ModItems.yellow_gold_moquette_carpet.get());
-				output.accept(ModItems.yellow_silver_moquette_carpet.get());
+				output.accept(ModItems.yellow_iron_moquette_carpet.get());
 				output.accept(ModItems.yellow_copper_moquette_carpet.get());
 
-				output.accept(ModItems.olive_gold_moquette_carpet.get());
-				output.accept(ModItems.olive_silver_moquette_carpet.get());
-				output.accept(ModItems.olive_copper_moquette_carpet.get());
+				output.accept(ModItems.lime_gold_moquette_carpet.get());
+				output.accept(ModItems.lime_iron_moquette_carpet.get());
+				output.accept(ModItems.lime_copper_moquette_carpet.get());
 
 				output.accept(ModItems.green_gold_moquette_carpet.get());
-				output.accept(ModItems.green_silver_moquette_carpet.get());
+				output.accept(ModItems.green_iron_moquette_carpet.get());
 				output.accept(ModItems.green_copper_moquette_carpet.get());
 
-				output.accept(ModItems.seagreen_gold_moquette_carpet.get());
-				output.accept(ModItems.seagreen_silver_moquette_carpet.get());
-				output.accept(ModItems.seagreen_copper_moquette_carpet.get());
+				output.accept(ModItems.cyan_gold_moquette_carpet.get());
+				output.accept(ModItems.cyan_iron_moquette_carpet.get());
+				output.accept(ModItems.cyan_copper_moquette_carpet.get());
 
-				output.accept(ModItems.emerald_gold_moquette_carpet.get());
-				output.accept(ModItems.emerald_silver_moquette_carpet.get());
-				output.accept(ModItems.emerald_copper_moquette_carpet.get());
-
-				output.accept(ModItems.aquamarine_gold_moquette_carpet.get());
-				output.accept(ModItems.aquamarine_silver_moquette_carpet.get());
-				output.accept(ModItems.aquamarine_copper_moquette_carpet.get());
+				output.accept(ModItems.light_blue_gold_moquette_carpet.get());
+				output.accept(ModItems.light_blue_iron_moquette_carpet.get());
+				output.accept(ModItems.light_blue_copper_moquette_carpet.get());
 
 				output.accept(ModItems.blue_gold_moquette_carpet.get());
-				output.accept(ModItems.blue_silver_moquette_carpet.get());
+				output.accept(ModItems.blue_iron_moquette_carpet.get());
 				output.accept(ModItems.blue_copper_moquette_carpet.get());
 
-				output.accept(ModItems.cobaltblue_gold_moquette_carpet.get());
-				output.accept(ModItems.cobaltblue_silver_moquette_carpet.get());
-				output.accept(ModItems.cobaltblue_copper_moquette_carpet.get());
-
-				output.accept(ModItems.midnight_gold_moquette_carpet.get());
-				output.accept(ModItems.midnight_silver_moquette_carpet.get());
-				output.accept(ModItems.midnight_copper_moquette_carpet.get());
-
-				output.accept(ModItems.violet_gold_moquette_carpet.get());
-				output.accept(ModItems.violet_silver_moquette_carpet.get());
-				output.accept(ModItems.violet_copper_moquette_carpet.get());
-
 				output.accept(ModItems.purple_gold_moquette_carpet.get());
-				output.accept(ModItems.purple_silver_moquette_carpet.get());
+				output.accept(ModItems.purple_iron_moquette_carpet.get());
 				output.accept(ModItems.purple_copper_moquette_carpet.get());
 
-				output.accept(ModItems.orchid_gold_moquette_carpet.get());
-				output.accept(ModItems.orchid_silver_moquette_carpet.get());
-				output.accept(ModItems.orchid_copper_moquette_carpet.get());
+				output.accept(ModItems.magenta_gold_moquette_carpet.get());
+				output.accept(ModItems.magenta_iron_moquette_carpet.get());
+				output.accept(ModItems.magenta_copper_moquette_carpet.get());
+
+				output.accept(ModItems.pink_gold_moquette_carpet.get());
+				output.accept(ModItems.pink_iron_moquette_carpet.get());
+				output.accept(ModItems.pink_copper_moquette_carpet.get());
+
+				output.accept(ModItems.brown_gold_moquette_carpet.get());
+				output.accept(ModItems.brown_iron_moquette_carpet.get());
+				output.accept(ModItems.brown_copper_moquette_carpet.get());
 
 				output.accept(ModItems.black_gold_moquette_carpet.get());
-				output.accept(ModItems.black_silver_moquette_carpet.get());
+				output.accept(ModItems.black_iron_moquette_carpet.get());
 				output.accept(ModItems.black_copper_moquette_carpet.get());
 
 				output.accept(ModItems.gray_gold_moquette_carpet.get());
-				output.accept(ModItems.gray_silver_moquette_carpet.get());
+				output.accept(ModItems.gray_iron_moquette_carpet.get());
 				output.accept(ModItems.gray_copper_moquette_carpet.get());
+
+				output.accept(ModItems.light_gray_gold_moquette_carpet.get());
+				output.accept(ModItems.light_gray_iron_moquette_carpet.get());
+				output.accept(ModItems.light_gray_copper_moquette_carpet.get());
+
+				output.accept(ModItems.white_gold_moquette_carpet.get());
+				output.accept(ModItems.white_iron_moquette_carpet.get());
+				output.accept(ModItems.white_copper_moquette_carpet.get());
 			})
 			.build());
 }

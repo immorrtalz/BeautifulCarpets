@@ -4,10 +4,7 @@
 	"group": "carpet",
 	"key":
 	{
-		"#":
-		{
-			"item": "beautifulcarpets:green_gold_moquette"
-		}
+		"#": { "item": "beautifulcarpets:green_gold_moquette" }
 	},
 	"pattern": ["##"],
 	"result":
