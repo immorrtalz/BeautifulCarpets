@@ -10,7 +10,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModItems
 {
-	public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(BeautifulCarpets.MODID);
+	public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(BeautifulCarpets.MOD_ID);
 
 	public static final DeferredItem<Item> red_gold_moquette = ITEMS.register("red_gold_moquette", () -> new BlockItem((Block)ModBlocks.red_gold_moquette.get(), new Item.Properties()));
 	public static final DeferredItem<Item> red_iron_moquette = ITEMS.register("red_iron_moquette", () -> new BlockItem((Block)ModBlocks.red_iron_moquette.get(), new Item.Properties()));

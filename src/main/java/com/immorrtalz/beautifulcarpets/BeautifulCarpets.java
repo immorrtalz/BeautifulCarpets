@@ -1,24 +1,29 @@
 package com.immorrtalz.beautifulcarpets;
 
-import com.immorrtalz.beautifulcarpets.data.ModBlockLootProvider;
+import com.immorrtalz.beautifulcarpets.data.ModLootTableProvider;
 import com.immorrtalz.beautifulcarpets.things.ModBlocks;
 import com.immorrtalz.beautifulcarpets.things.ModCreativeTabs;
 import com.immorrtalz.beautifulcarpets.things.ModItems;
 import com.mojang.logging.LogUtils;
 
+import java.util.List;
 import java.util.Set;
+import java.util.concurrent.CompletableFuture;
 
 import org.slf4j.Logger;
 
+import net.minecraft.core.HolderLookup;
+import net.minecraft.data.DataGenerator;
+import net.minecraft.data.PackOutput;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.neoforge.data.event.GatherDataEvent;
 
-@Mod(BeautifulCarpets.MODID)
+@Mod(BeautifulCarpets.MOD_ID)
 public class BeautifulCarpets
 {
-	public static final String MODID = "beautifulcarpets";
+	public static final String MOD_ID = "beautifulcarpets";
 	public static final Logger LOGGER = LogUtils.getLogger();
 
 	public BeautifulCarpets(IEventBus modEventBus, Dist dist)
@@ -34,9 +39,16 @@ public class BeautifulCarpets
 
 	public static void onGatherData(GatherDataEvent event)
 	{
-		// Add the loot table provider
+		DataGenerator generator = event.getGenerator();
+		PackOutput output = generator.getPackOutput();
+		CompletableFuture<HolderLookup.Provider> lookupProvider = event.getLookupProvider();
+
 		event.getGenerator().addProvider(
 			event.includeServer(),
-			(output, lookup) -> new ModBlockLootProvider(output, lookup));
+			new ModLootTableProvider(
+				output,
+				Set.of(),
+				List.of(),
+				lookupProvider));
 	}
 }

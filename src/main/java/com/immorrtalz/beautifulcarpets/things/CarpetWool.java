@@ -8,6 +8,8 @@ public class CarpetWool extends Block
 {
 	public CarpetWool()
 	{
-		super(BlockBehaviour.Properties.ofFullCopy((BlockBehaviour)Blocks.WHITE_WOOL));
+		super(BlockBehaviour.Properties.ofFullCopy((BlockBehaviour)Blocks.WHITE_WOOL)
+			.strength(0.8F)
+			.explosionResistance(0.8F));
 	}
 }

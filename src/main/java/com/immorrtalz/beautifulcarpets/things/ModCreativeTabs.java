@@ -12,12 +12,12 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModCreativeTabs
 {
-	public static final DeferredRegister<CreativeModeTab> TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, BeautifulCarpets.MODID);
+	public static final DeferredRegister<CreativeModeTab> TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, BeautifulCarpets.MOD_ID);
 
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CREATIVE_TAB = TABS.register(
-		BeautifulCarpets.MODID,
+		BeautifulCarpets.MOD_ID,
 		() -> CreativeModeTab.builder()
-			.title((Component)Component.translatable("itemGroup." + BeautifulCarpets.MODID))
+			.title((Component)Component.translatable("itemGroup." + BeautifulCarpets.MOD_ID))
 			.withTabsBefore(new ResourceKey[] { CreativeModeTabs.COLORED_BLOCKS })
 			.icon(ModItems.red_copper_moquette.get()::getDefaultInstance)
 			.displayItems((params, output) ->

@@ -9,7 +9,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 public class ModBlocks
 {
-	public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(BeautifulCarpets.MODID);
+	public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(BeautifulCarpets.MOD_ID);
 
 	public static final DeferredBlock<Block> red_gold_moquette = BLOCKS.register("red_gold_moquette", () -> new CarpetWool());
 	public static final DeferredBlock<Block> red_iron_moquette = BLOCKS.register("red_iron_moquette", () -> new CarpetWool());
