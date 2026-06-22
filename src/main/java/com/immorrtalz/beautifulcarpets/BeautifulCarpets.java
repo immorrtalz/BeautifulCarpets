@@ -1,5 +1,6 @@
 package com.immorrtalz.beautifulcarpets;
 
+import com.immorrtalz.beautifulcarpets.data.ModBlockLootProvider;
 import com.immorrtalz.beautifulcarpets.things.ModBlocks;
 import com.immorrtalz.beautifulcarpets.things.ModCreativeTabs;
 import com.immorrtalz.beautifulcarpets.things.ModItems;
@@ -26,6 +27,16 @@ public class BeautifulCarpets
 		ModItems.ITEMS.register(modEventBus);
 		ModCreativeTabs.TABS.register(modEventBus);
 
+		modEventBus.addListener(BeautifulCarpets::onGatherData);
+
 		LOGGER.info("BeautifulCarpets client initialized.");
+	}
+
+	public static void onGatherData(GatherDataEvent event)
+	{
+		// Add the loot table provider
+		event.getGenerator().addProvider(
+			event.includeServer(),
+			(output, lookup) -> new ModBlockLootProvider(output, lookup));
 	}
 }
