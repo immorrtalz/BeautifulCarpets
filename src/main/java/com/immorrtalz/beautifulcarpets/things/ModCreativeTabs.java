@@ -14,6 +14,7 @@ public class ModCreativeTabs
 {
 	public static final DeferredRegister<CreativeModeTab> TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, BeautifulCarpets.MOD_ID);
 
+	@SuppressWarnings("unchecked")
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CREATIVE_TAB = TABS.register(
 		BeautifulCarpets.MOD_ID,
 		() -> CreativeModeTab.builder()

@@ -4,6 +4,7 @@ PROJECT_DIRECTORY = os.getcwd()
 MOD_ID = "beautifulcarpets"
 MOD_ASSETS_PATH = f"{PROJECT_DIRECTORY}/src/main/resources/assets/{MOD_ID}"
 MOD_DATA_PATH = f"{PROJECT_DIRECTORY}/src/main/resources/data/{MOD_ID}"
+MINECRAFT_DATA_PATH = f"{PROJECT_DIRECTORY}/src/main/resources/data/minecraft"
 MOD_TEXTURES_PATH = f"{PROJECT_DIRECTORY}/src/main/resources/assets/{MOD_ID}/textures/block"
 
 def getMoquetteId(color, ornamentMaterial):
@@ -35,7 +36,7 @@ def getMoquetteCraftJson(color, ornamentMaterial):
 	return f"""{{
 	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
-	"group": "carpet",
+	"group": "wool",
 	"ingredients": [
 		{{ "tag": "c:nuggets/{ornamentMaterial}" }},
 		{{ "item": "minecraft:{color}_wool" }}
@@ -83,6 +84,21 @@ def getMoquetteCarpetCraftFromCarpetsJson(color, ornamentMaterial):
 	}}
 }}"""
 
+def getMoquetteVanillaWoolTagFullJson():
+	json = """{
+	"values": [
+"""
+
+	for colorIndex in range(len(colors)):
+		for ornamentMaterialIndex in range(len(ornamentMaterials)):
+			json += f'''		"{getMoquetteId(colors[colorIndex], ornamentMaterials[ornamentMaterialIndex])}"{',' if colorIndex != len(colors) - 1 or ornamentMaterialIndex != len(ornamentMaterials) - 1 else ''}
+'''
+
+	json += """	]
+}"""
+
+	return json
+
 def writeToFile(filePath, content):
 	with open(filePath, "w", encoding="utf-8") as f:
 		f.write(content)
@@ -120,6 +136,11 @@ def main():
 				filesCounter += 6
 
 	print(f"Generated data for {counter} items ({filesCounter} files)")
+
+	moquetteVanillaWoolTagFullJson = getMoquetteVanillaWoolTagFullJson()
+
+	writeToFile(f"{MINECRAFT_DATA_PATH}/tags/block/wool.json", moquetteVanillaWoolTagFullJson)
+	writeToFile(f"{MINECRAFT_DATA_PATH}/tags/item/wool.json", moquetteVanillaWoolTagFullJson)
 
 def renameImages():
 	counter = 0

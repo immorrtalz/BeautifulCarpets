@@ -1,7 +1,7 @@
 {
 	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
-	"group": "carpet",
+	"group": "wool",
 	"ingredients": [
 		{ "tag": "c:nuggets/copper" },
 		{ "item": "minecraft:white_wool" }
