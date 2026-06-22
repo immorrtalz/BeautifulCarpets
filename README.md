@@ -13,7 +13,6 @@ Beautiful carpets, inspired by those you could see in the [doctor4t](https://mod
 > ### IMPORTANT
 > The mod is currently in **beta**.\
 > **Known issues:**
-> - when broken, blocks don't drop themselves
 > - blocks can't burn
 
 <br>
