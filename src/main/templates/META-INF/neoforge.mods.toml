@@ -46,7 +46,7 @@ authors="immorrtalz"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-This mod adds beautiful carpets, inspired by those you could see in the doctor4t's "The Last Voyage of the Harpy Express".
+Beautiful carpets, inspired by those you could see in the doctor4t's "The Last Voyage of the Harpy Express".
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
