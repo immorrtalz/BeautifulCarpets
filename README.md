@@ -1,4 +1,4 @@
-<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1-dev/.github/ReadmeHeader.png" alt="BeautifulCarpets"/>
+<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/.github/ReadmeHeader.png" alt="BeautifulCarpets"/>
 
 [![Total Downloads on GitHub](https://img.shields.io/github/downloads/immorrtalz/BeautifulCarpets/total?label=total%20downloads%20on%20GitHub&color=purple)](https://github.com/immorrtalz/BeautifulCarpets/releases)
 [![License](https://img.shields.io/badge/license-GPL%20v3-goldenrod)](https://www.gnu.org/licenses/gpl-3.0.html)
@@ -10,15 +10,9 @@
 
 Beautiful carpets, inspired by those you could see in the [doctor4t](https://modrinth.com/user/RAT)'s ["The Last Voyage of the Harpy Express"](https://modrinth.com/mod/wathe).
 
-> ### IMPORTANT
-> The mod is currently in **beta**.
->
-> **Known issues:**
-> - blocks can't burn
-
 <br>
 
-<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1-dev/promo/screenshots/2.png" alt="Mansion with beautiful carpets"/>
+<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/promo/screenshots/2.png" alt="Mansion with beautiful carpets"/>
 
 ## ✨ Blocks
 - All 16 vanilla colors moquettes - as carpets and blocks (so could be used with something like Copycats). Each color variant has 3 types of the ornament color: **gold**, **iron** and **copper**.\
@@ -29,8 +23,8 @@ Beautiful carpets, inspired by those you could see in the [doctor4t](https://mod
 
 <br>
 
-<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1-dev/promo/screenshots/0.png" alt="All blocks"/>
-<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1-dev/promo/screenshots/1.png" alt="All carpets"/>
+<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/promo/screenshots/0.png" alt="All blocks"/>
+<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/promo/screenshots/1.png" alt="All carpets"/>
 
 ## 🔗 Dependencies
 - Any mod, which adds a copper nugget with a tag `c:nuggets/copper`, for example, [Create](https://modrinth.com/mod/create)\

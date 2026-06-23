@@ -99,6 +99,21 @@ def getMoquetteVanillaWoolTagFullJson():
 
 	return json
 
+def getMoquetteVanillaWoolCarpetsTagFullJson():
+	json = """{
+	"values": [
+"""
+
+	for colorIndex in range(len(colors)):
+		for ornamentMaterialIndex in range(len(ornamentMaterials)):
+			json += f'''		"{getMoquetteId(colors[colorIndex], ornamentMaterials[ornamentMaterialIndex])}_carpet"{',' if colorIndex != len(colors) - 1 or ornamentMaterialIndex != len(ornamentMaterials) - 1 else ''}
+'''
+
+	json += """	]
+}"""
+
+	return json
+
 def writeToFile(filePath, content):
 	with open(filePath, "w", encoding="utf-8") as f:
 		f.write(content)
@@ -138,9 +153,13 @@ def main():
 	print(f"Generated data for {counter} items ({filesCounter} files)")
 
 	moquetteVanillaWoolTagFullJson = getMoquetteVanillaWoolTagFullJson()
+	moquetteVanillaWoolCarpetsTagFullJson = getMoquetteVanillaWoolCarpetsTagFullJson()
 
 	writeToFile(f"{MINECRAFT_DATA_PATH}/tags/block/wool.json", moquetteVanillaWoolTagFullJson)
 	writeToFile(f"{MINECRAFT_DATA_PATH}/tags/item/wool.json", moquetteVanillaWoolTagFullJson)
+
+	writeToFile(f"{MINECRAFT_DATA_PATH}/tags/block/wool_carpets.json", moquetteVanillaWoolCarpetsTagFullJson)
+	writeToFile(f"{MINECRAFT_DATA_PATH}/tags/item/wool_carpets.json", moquetteVanillaWoolCarpetsTagFullJson)
 
 def renameImages():
 	counter = 0
