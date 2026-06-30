@@ -8,27 +8,26 @@
 
 ---
 
-Beautiful carpets, inspired by those you could see in the [doctor4t](https://modrinth.com/user/RAT)'s ["The Last Voyage of the Harpy Express"](https://modrinth.com/mod/wathe).
+Beautiful carpets, inspired by those you could see in the [doctor4t](https://modrinth.com/user/RAT)'s ["The Last Voyage of the Harpy Express"](https://modrinth.com/modpack/harpy-express).
 
 <br>
 
 <img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/promo/screenshots/2.png" alt="Mansion with beautiful carpets"/>
 
 ## ✨ Blocks
-- All 16 vanilla colors moquettes - as carpets and blocks (so could be used with something like Copycats). Each color variant has 3 types of the ornament color: **gold**, **iron** and **copper**.\
+- All 16 vanilla colors moquettes - as carpets and wool blocks. Each color variant has 3 types of the ornament color: **gold**, **iron** and **copper**.\
   So, to shapelessly craft a **red copper moquette**, you'd need a red wool and a copper nugget.
-  Moquette blocks are just like wool: they could be broken faster with shears, used as
-- *[Planned]* Faded versions of moquettes
-- *[Planned]* Versions of moquettes without an ornament
+- All 16 vanilla colors velvet - as carpets and wool blocks.\
+  So, to shapelessly craft a **red velvet**, you'd need only a red wool.
+  Moquette and velvet **blocks** are just like wool: they could be broken faster with shears, used as a fuel in furnaces and burned quickly when on fire.
 
 <br>
 
-<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/promo/screenshots/0.png" alt="All blocks"/>
-<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/promo/screenshots/1.png" alt="All carpets"/>
+<img src="https://github.com/immorrtalz/BeautifulCarpets/raw/neoforge_1.21.1/promo/screenshots/1.png" alt="All blocks and carpets"/>
 
 ## 🔗 Dependencies
 - Any mod, which adds a copper nugget with a tag `c:nuggets/copper`, for example, [Create](https://modrinth.com/mod/create)\
-**−−−== OR ==−−−**
+**OR**
 - Minecraft 1.21.9 or higher
 
 ## 📫 Contacts
@@ -36,6 +35,10 @@ If you have any questions or suggestions, you could open an issue on [GitHub](ht
 
 ## ⚖️ License
 Except where otherwise stated, the content of this repository is provided under the [GNU GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
+
+---
+
+All screenshots were taken with [Complementary Unbound v4.7.1](https://modrinth.com/shader/complementary-unbound) shaders with `Generated normals`, `Parallax` and `Noisy textures` options.
 
 ---
 

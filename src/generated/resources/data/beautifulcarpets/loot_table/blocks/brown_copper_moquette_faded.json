@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "beautifulcarpets:brown_copper_moquette_faded"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "beautifulcarpets:blocks/brown_copper_moquette_faded"
+}

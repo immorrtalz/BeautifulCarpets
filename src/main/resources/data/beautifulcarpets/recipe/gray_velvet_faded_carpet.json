@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"ingredients": [
+		{ "item": "beautifulcarpets:gray_velvet_carpet" }
+	],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:gray_velvet_faded_carpet"
+	}
+}

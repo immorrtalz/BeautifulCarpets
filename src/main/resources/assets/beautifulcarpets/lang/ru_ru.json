@@ -128,5 +128,207 @@
 
 	"block.beautifulcarpets.white_gold_moquette_carpet": "Белый золотой мокеттный ковёр",
 	"block.beautifulcarpets.white_iron_moquette_carpet": "Белый железный мокеттный ковёр",
-	"block.beautifulcarpets.white_copper_moquette_carpet": "Белый медный мокеттный ковёр"
+	"block.beautifulcarpets.white_copper_moquette_carpet": "Белый медный мокеттный ковёр",
+
+
+	"block.beautifulcarpets.red_gold_moquette_faded": "Красный золотой выцветший мокетт",
+	"block.beautifulcarpets.red_iron_moquette_faded": "Красный железный выцветший мокетт",
+	"block.beautifulcarpets.red_copper_moquette_faded": "Красный медный выцветший мокетт",
+
+	"block.beautifulcarpets.orange_gold_moquette_faded": "Оранжевый золотой выцветший мокетт",
+	"block.beautifulcarpets.orange_iron_moquette_faded": "Оранжевый железный выцветший мокетт",
+	"block.beautifulcarpets.orange_copper_moquette_faded": "Оранжевый медный выцветший мокетт",
+
+	"block.beautifulcarpets.yellow_gold_moquette_faded": "Жёлтый золотой выцветший мокетт",
+	"block.beautifulcarpets.yellow_iron_moquette_faded": "Жёлтый железный выцветший мокетт",
+	"block.beautifulcarpets.yellow_copper_moquette_faded": "Жёлтый медный выцветший мокетт",
+
+	"block.beautifulcarpets.lime_gold_moquette_faded": "Лаймовый золотой выцветший мокетт",
+	"block.beautifulcarpets.lime_iron_moquette_faded": "Лаймовый железный выцветший мокетт",
+	"block.beautifulcarpets.lime_copper_moquette_faded": "Лаймовый медный выцветший мокетт",
+
+	"block.beautifulcarpets.green_gold_moquette_faded": "Зелёный золотой выцветший мокетт",
+	"block.beautifulcarpets.green_iron_moquette_faded": "Зелёный железный выцветший мокетт",
+	"block.beautifulcarpets.green_copper_moquette_faded": "Зелёный медный выцветший мокетт",
+
+	"block.beautifulcarpets.cyan_gold_moquette_faded": "Бирюзовый золотой выцветший мокетт",
+	"block.beautifulcarpets.cyan_iron_moquette_faded": "Бирюзовый железный выцветший мокетт",
+	"block.beautifulcarpets.cyan_copper_moquette_faded": "Бирюзовый медный выцветший мокетт",
+
+	"block.beautifulcarpets.light_blue_gold_moquette_faded": "Голубой золотой выцветший мокетт",
+	"block.beautifulcarpets.light_blue_iron_moquette_faded": "Голубой железный выцветший мокетт",
+	"block.beautifulcarpets.light_blue_copper_moquette_faded": "Голубой медный выцветший мокетт",
+
+	"block.beautifulcarpets.blue_gold_moquette_faded": "Синий золотой выцветший мокетт",
+	"block.beautifulcarpets.blue_iron_moquette_faded": "Синий железный выцветший мокетт",
+	"block.beautifulcarpets.blue_copper_moquette_faded": "Синий медный выцветший мокетт",
+
+	"block.beautifulcarpets.purple_gold_moquette_faded": "Фиолетовый золотой выцветший мокетт",
+	"block.beautifulcarpets.purple_iron_moquette_faded": "Фиолетовый железный выцветший мокетт",
+	"block.beautifulcarpets.purple_copper_moquette_faded": "Фиолетовый медный выцветший мокетт",
+
+	"block.beautifulcarpets.magenta_gold_moquette_faded": "Пурпурный золотой выцветший мокетт",
+	"block.beautifulcarpets.magenta_iron_moquette_faded": "Пурпурный железный выцветший мокетт",
+	"block.beautifulcarpets.magenta_copper_moquette_faded": "Пурпурный медный выцветший мокетт",
+
+	"block.beautifulcarpets.pink_gold_moquette_faded": "Розовый золотой выцветший мокетт",
+	"block.beautifulcarpets.pink_iron_moquette_faded": "Розовый железный выцветший мокетт",
+	"block.beautifulcarpets.pink_copper_moquette_faded": "Розовый медный выцветший мокетт",
+
+	"block.beautifulcarpets.brown_gold_moquette_faded": "Коричневый золотой выцветший мокетт",
+	"block.beautifulcarpets.brown_iron_moquette_faded": "Коричневый железный выцветший мокетт",
+	"block.beautifulcarpets.brown_copper_moquette_faded": "Коричневый медный выцветший мокетт",
+
+	"block.beautifulcarpets.black_gold_moquette_faded": "Чёрный золотой выцветший мокетт",
+	"block.beautifulcarpets.black_iron_moquette_faded": "Чёрный железный выцветший мокетт",
+	"block.beautifulcarpets.black_copper_moquette_faded": "Чёрный медный выцветший мокетт",
+
+	"block.beautifulcarpets.gray_gold_moquette_faded": "Серый золотой выцветший мокетт",
+	"block.beautifulcarpets.gray_iron_moquette_faded": "Серый железный выцветший мокетт",
+	"block.beautifulcarpets.gray_copper_moquette_faded": "Серый медный выцветший мокетт",
+
+	"block.beautifulcarpets.light_gray_gold_moquette_faded": "Светло-серый золотой выцветший мокетт",
+	"block.beautifulcarpets.light_gray_iron_moquette_faded": "Светло-серый железный выцветший мокетт",
+	"block.beautifulcarpets.light_gray_copper_moquette_faded": "Светло-серый медный выцветший мокетт",
+
+	"block.beautifulcarpets.white_gold_moquette_faded": "Белый золотой выцветший мокетт",
+	"block.beautifulcarpets.white_iron_moquette_faded": "Белый железный выцветший мокетт",
+	"block.beautifulcarpets.white_copper_moquette_faded": "Белый медный выцветший мокетт",
+
+
+	"block.beautifulcarpets.red_gold_moquette_faded_carpet": "Красный золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.red_iron_moquette_faded_carpet": "Красный железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.red_copper_moquette_faded_carpet": "Красный медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.orange_gold_moquette_faded_carpet": "Оранжевый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.orange_iron_moquette_faded_carpet": "Оранжевый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.orange_copper_moquette_faded_carpet": "Оранжевый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.yellow_gold_moquette_faded_carpet": "Жёлтый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.yellow_iron_moquette_faded_carpet": "Жёлтый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.yellow_copper_moquette_faded_carpet": "Жёлтый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.lime_gold_moquette_faded_carpet": "Лаймовый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.lime_iron_moquette_faded_carpet": "Лаймовый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.lime_copper_moquette_faded_carpet": "Лаймовый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.green_gold_moquette_faded_carpet": "Зелёный золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.green_iron_moquette_faded_carpet": "Зелёный железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.green_copper_moquette_faded_carpet": "Зелёный медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.cyan_gold_moquette_faded_carpet": "Бирюзовый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.cyan_iron_moquette_faded_carpet": "Бирюзовый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.cyan_copper_moquette_faded_carpet": "Бирюзовый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.light_blue_gold_moquette_faded_carpet": "Голубой золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.light_blue_iron_moquette_faded_carpet": "Голубой железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.light_blue_copper_moquette_faded_carpet": "Голубой медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.blue_gold_moquette_faded_carpet": "Синий золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.blue_iron_moquette_faded_carpet": "Синий железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.blue_copper_moquette_faded_carpet": "Синий медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.purple_gold_moquette_faded_carpet": "Фиолетовый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.purple_iron_moquette_faded_carpet": "Фиолетовый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.purple_copper_moquette_faded_carpet": "Фиолетовый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.magenta_gold_moquette_faded_carpet": "Пурпурный золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.magenta_iron_moquette_faded_carpet": "Пурпурный железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.magenta_copper_moquette_faded_carpet": "Пурпурный медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.pink_gold_moquette_faded_carpet": "Розовый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.pink_iron_moquette_faded_carpet": "Розовый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.pink_copper_moquette_faded_carpet": "Розовый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.brown_gold_moquette_faded_carpet": "Коричневый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.brown_iron_moquette_faded_carpet": "Коричневый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.brown_copper_moquette_faded_carpet": "Коричневый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.black_gold_moquette_faded_carpet": "Чёрный золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.black_iron_moquette_faded_carpet": "Чёрный железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.black_copper_moquette_faded_carpet": "Чёрный медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.gray_gold_moquette_faded_carpet": "Серый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.gray_iron_moquette_faded_carpet": "Серый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.gray_copper_moquette_faded_carpet": "Серый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.light_gray_gold_moquette_faded_carpet": "Светло-серый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.light_gray_iron_moquette_faded_carpet": "Светло-серый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.light_gray_copper_moquette_faded_carpet": "Светло-серый медный выцветший мокеттный ковёр",
+
+	"block.beautifulcarpets.white_gold_moquette_faded_carpet": "Белый золотой выцветший мокеттный ковёр",
+	"block.beautifulcarpets.white_iron_moquette_faded_carpet": "Белый железный выцветший мокеттный ковёр",
+	"block.beautifulcarpets.white_copper_moquette_faded_carpet": "Белый медный выцветший мокеттный ковёр",
+
+
+	"block.beautifulcarpets.red_velvet": "Красный бархат",
+	"block.beautifulcarpets.orange_velvet": "Оранжевый бархат",
+	"block.beautifulcarpets.yellow_velvet": "Жёлтый бархат",
+	"block.beautifulcarpets.lime_velvet": "Лаймовый бархат",
+	"block.beautifulcarpets.green_velvet": "Зелёный бархат",
+	"block.beautifulcarpets.cyan_velvet": "Бирюзовый бархат",
+	"block.beautifulcarpets.light_blue_velvet": "Голубой бархат",
+	"block.beautifulcarpets.blue_velvet": "Синий бархат",
+	"block.beautifulcarpets.purple_velvet": "Фиолетовый бархат",
+	"block.beautifulcarpets.magenta_velvet": "Пурпурный бархат",
+	"block.beautifulcarpets.pink_velvet": "Розовый бархат",
+	"block.beautifulcarpets.brown_velvet": "Коричневый бархат",
+	"block.beautifulcarpets.black_velvet": "Чёрный бархат",
+	"block.beautifulcarpets.gray_velvet": "Серый бархат",
+	"block.beautifulcarpets.light_gray_velvet": "Светло-серый бархат",
+	"block.beautifulcarpets.white_velvet": "Белый бархат",
+
+
+	"block.beautifulcarpets.red_velvet_carpet": "Красный бархатный ковёр",
+	"block.beautifulcarpets.orange_velvet_carpet": "Оранжевый бархатный ковёр",
+	"block.beautifulcarpets.yellow_velvet_carpet": "Жёлтый бархатный ковёр",
+	"block.beautifulcarpets.lime_velvet_carpet": "Лаймовый бархатный ковёр",
+	"block.beautifulcarpets.green_velvet_carpet": "Зелёный бархатный ковёр",
+	"block.beautifulcarpets.cyan_velvet_carpet": "Бирюзовый бархатный ковёр",
+	"block.beautifulcarpets.light_blue_velvet_carpet": "Голубой бархатный ковёр",
+	"block.beautifulcarpets.blue_velvet_carpet": "Синий бархатный ковёр",
+	"block.beautifulcarpets.purple_velvet_carpet": "Фиолетовый бархатный ковёр",
+	"block.beautifulcarpets.magenta_velvet_carpet": "Пурпурный бархатный ковёр",
+	"block.beautifulcarpets.pink_velvet_carpet": "Розовый бархатный ковёр",
+	"block.beautifulcarpets.brown_velvet_carpet": "Коричневый бархатный ковёр",
+	"block.beautifulcarpets.black_velvet_carpet": "Чёрный бархатный ковёр",
+	"block.beautifulcarpets.gray_velvet_carpet": "Серый бархатный ковёр",
+	"block.beautifulcarpets.light_gray_velvet_carpet": "Светло-серый бархатный ковёр",
+	"block.beautifulcarpets.white_velvet_carpet": "Белый бархатный ковёр",
+
+
+	"block.beautifulcarpets.red_velvet_faded": "Красный выцветший бархат",
+	"block.beautifulcarpets.orange_velvet_faded": "Оранжевый выцветший бархат",
+	"block.beautifulcarpets.yellow_velvet_faded": "Жёлтый выцветший бархат",
+	"block.beautifulcarpets.lime_velvet_faded": "Лаймовый выцветший бархат",
+	"block.beautifulcarpets.green_velvet_faded": "Зелёный выцветший бархат",
+	"block.beautifulcarpets.cyan_velvet_faded": "Бирюзовый выцветший бархат",
+	"block.beautifulcarpets.light_blue_velvet_faded": "Голубой выцветший бархат",
+	"block.beautifulcarpets.blue_velvet_faded": "Синий выцветший бархат",
+	"block.beautifulcarpets.purple_velvet_faded": "Фиолетовый выцветший бархат",
+	"block.beautifulcarpets.magenta_velvet_faded": "Пурпурный выцветший бархат",
+	"block.beautifulcarpets.pink_velvet_faded": "Розовый выцветший бархат",
+	"block.beautifulcarpets.brown_velvet_faded": "Коричневый выцветший бархат",
+	"block.beautifulcarpets.black_velvet_faded": "Чёрный выцветший бархат",
+	"block.beautifulcarpets.gray_velvet_faded": "Серый выцветший бархат",
+	"block.beautifulcarpets.light_gray_velvet_faded": "Светло-серый выцветший бархат",
+	"block.beautifulcarpets.white_velvet_faded": "Белый выцветший бархат",
+
+
+	"block.beautifulcarpets.red_velvet_faded_carpet": "Красный выцветший бархатный ковёр",
+	"block.beautifulcarpets.orange_velvet_faded_carpet": "Оранжевый выцветший бархатный ковёр",
+	"block.beautifulcarpets.yellow_velvet_faded_carpet": "Жёлтый выцветший бархатный ковёр",
+	"block.beautifulcarpets.lime_velvet_faded_carpet": "Лаймовый выцветший бархатный ковёр",
+	"block.beautifulcarpets.green_velvet_faded_carpet": "Зелёный выцветший бархатный ковёр",
+	"block.beautifulcarpets.cyan_velvet_faded_carpet": "Бирюзовый выцветший бархатный ковёр",
+	"block.beautifulcarpets.light_blue_velvet_faded_carpet": "Голубой выцветший бархатный ковёр",
+	"block.beautifulcarpets.blue_velvet_faded_carpet": "Синий выцветший бархатный ковёр",
+	"block.beautifulcarpets.purple_velvet_faded_carpet": "Фиолетовый выцветший бархатный ковёр",
+	"block.beautifulcarpets.magenta_velvet_faded_carpet": "Пурпурный выцветший бархатный ковёр",
+	"block.beautifulcarpets.pink_velvet_faded_carpet": "Розовый выцветший бархатный ковёр",
+	"block.beautifulcarpets.brown_velvet_faded_carpet": "Коричневый выцветший бархатный ковёр",
+	"block.beautifulcarpets.black_velvet_faded_carpet": "Чёрный выцветший бархатный ковёр",
+	"block.beautifulcarpets.gray_velvet_faded_carpet": "Серый выцветший бархатный ковёр",
+	"block.beautifulcarpets.light_gray_velvet_faded_carpet": "Светло-серый выцветший бархатный ковёр",
+	"block.beautifulcarpets.white_velvet_faded_carpet": "Белый выцветший бархатный ковёр"
 }

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "wool",
+	"ingredients": [
+		{ "item": "beautifulcarpets:white_velvet" }
+	],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:white_velvet_faded"
+	}
+}

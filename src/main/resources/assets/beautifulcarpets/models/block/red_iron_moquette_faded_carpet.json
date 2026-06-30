@@ -1,0 +1,4 @@
+{
+	"parent": "minecraft:block/carpet",
+	"textures": { "wool": "beautifulcarpets:block/moquette_faded/iron/red_iron_moquette_faded" }
+}

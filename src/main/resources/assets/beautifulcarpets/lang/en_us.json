@@ -66,67 +66,269 @@
 	"block.beautifulcarpets.white_copper_moquette": "White copper moquette",
 
 
-	"block.beautifulcarpets.red_gold_moquette_carpet": "Red gold moquette Carpet",
-	"block.beautifulcarpets.red_iron_moquette_carpet": "Red iron moquette Carpet",
-	"block.beautifulcarpets.red_copper_moquette_carpet": "Red copper moquette Carpet",
+	"block.beautifulcarpets.red_gold_moquette_carpet": "Red gold moquette carpet",
+	"block.beautifulcarpets.red_iron_moquette_carpet": "Red iron moquette carpet",
+	"block.beautifulcarpets.red_copper_moquette_carpet": "Red copper moquette carpet",
 
-	"block.beautifulcarpets.orange_gold_moquette_carpet": "Orange gold moquette Carpet",
-	"block.beautifulcarpets.orange_iron_moquette_carpet": "Orange iron moquette Carpet",
-	"block.beautifulcarpets.orange_copper_moquette_carpet": "Orange copper moquette Carpet",
+	"block.beautifulcarpets.orange_gold_moquette_carpet": "Orange gold moquette carpet",
+	"block.beautifulcarpets.orange_iron_moquette_carpet": "Orange iron moquette carpet",
+	"block.beautifulcarpets.orange_copper_moquette_carpet": "Orange copper moquette carpet",
 
-	"block.beautifulcarpets.yellow_gold_moquette_carpet": "Yellow gold moquette Carpet",
-	"block.beautifulcarpets.yellow_iron_moquette_carpet": "Yellow iron moquette Carpet",
-	"block.beautifulcarpets.yellow_copper_moquette_carpet": "Yellow copper moquette Carpet",
+	"block.beautifulcarpets.yellow_gold_moquette_carpet": "Yellow gold moquette carpet",
+	"block.beautifulcarpets.yellow_iron_moquette_carpet": "Yellow iron moquette carpet",
+	"block.beautifulcarpets.yellow_copper_moquette_carpet": "Yellow copper moquette carpet",
 
-	"block.beautifulcarpets.lime_gold_moquette_carpet": "Lime gold moquette Carpet",
-	"block.beautifulcarpets.lime_iron_moquette_carpet": "Lime iron moquette Carpet",
-	"block.beautifulcarpets.lime_copper_moquette_carpet": "Lime copper moquette Carpet",
+	"block.beautifulcarpets.lime_gold_moquette_carpet": "Lime gold moquette carpet",
+	"block.beautifulcarpets.lime_iron_moquette_carpet": "Lime iron moquette carpet",
+	"block.beautifulcarpets.lime_copper_moquette_carpet": "Lime copper moquette carpet",
 
-	"block.beautifulcarpets.green_gold_moquette_carpet": "Green gold moquette Carpet",
-	"block.beautifulcarpets.green_iron_moquette_carpet": "Green iron moquette Carpet",
-	"block.beautifulcarpets.green_copper_moquette_carpet": "Green copper moquette Carpet",
+	"block.beautifulcarpets.green_gold_moquette_carpet": "Green gold moquette carpet",
+	"block.beautifulcarpets.green_iron_moquette_carpet": "Green iron moquette carpet",
+	"block.beautifulcarpets.green_copper_moquette_carpet": "Green copper moquette carpet",
 
-	"block.beautifulcarpets.cyan_gold_moquette_carpet": "Cyan gold moquette Carpet",
-	"block.beautifulcarpets.cyan_iron_moquette_carpet": "Cyan iron moquette Carpet",
-	"block.beautifulcarpets.cyan_copper_moquette_carpet": "Cyan copper moquette Carpet",
+	"block.beautifulcarpets.cyan_gold_moquette_carpet": "Cyan gold moquette carpet",
+	"block.beautifulcarpets.cyan_iron_moquette_carpet": "Cyan iron moquette carpet",
+	"block.beautifulcarpets.cyan_copper_moquette_carpet": "Cyan copper moquette carpet",
 
-	"block.beautifulcarpets.light_blue_gold_moquette_carpet": "Light Blue gold moquette Carpet",
-	"block.beautifulcarpets.light_blue_iron_moquette_carpet": "Light Blue iron moquette Carpet",
-	"block.beautifulcarpets.light_blue_copper_moquette_carpet": "Light Blue copper moquette Carpet",
+	"block.beautifulcarpets.light_blue_gold_moquette_carpet": "Light Blue gold moquette carpet",
+	"block.beautifulcarpets.light_blue_iron_moquette_carpet": "Light Blue iron moquette carpet",
+	"block.beautifulcarpets.light_blue_copper_moquette_carpet": "Light Blue copper moquette carpet",
 
-	"block.beautifulcarpets.blue_gold_moquette_carpet": "Blue gold moquette Carpet",
-	"block.beautifulcarpets.blue_iron_moquette_carpet": "Blue iron moquette Carpet",
-	"block.beautifulcarpets.blue_copper_moquette_carpet": "Blue copper moquette Carpet",
+	"block.beautifulcarpets.blue_gold_moquette_carpet": "Blue gold moquette carpet",
+	"block.beautifulcarpets.blue_iron_moquette_carpet": "Blue iron moquette carpet",
+	"block.beautifulcarpets.blue_copper_moquette_carpet": "Blue copper moquette carpet",
 
-	"block.beautifulcarpets.purple_gold_moquette_carpet": "Purple gold moquette Carpet",
-	"block.beautifulcarpets.purple_iron_moquette_carpet": "Purple iron moquette Carpet",
-	"block.beautifulcarpets.purple_copper_moquette_carpet": "Purple copper moquette Carpet",
+	"block.beautifulcarpets.purple_gold_moquette_carpet": "Purple gold moquette carpet",
+	"block.beautifulcarpets.purple_iron_moquette_carpet": "Purple iron moquette carpet",
+	"block.beautifulcarpets.purple_copper_moquette_carpet": "Purple copper moquette carpet",
 
-	"block.beautifulcarpets.magenta_gold_moquette_carpet": "Magenta gold moquette Carpet",
-	"block.beautifulcarpets.magenta_iron_moquette_carpet": "Magenta iron moquette Carpet",
-	"block.beautifulcarpets.magenta_copper_moquette_carpet": "Magenta copper moquette Carpet",
+	"block.beautifulcarpets.magenta_gold_moquette_carpet": "Magenta gold moquette carpet",
+	"block.beautifulcarpets.magenta_iron_moquette_carpet": "Magenta iron moquette carpet",
+	"block.beautifulcarpets.magenta_copper_moquette_carpet": "Magenta copper moquette carpet",
 
-	"block.beautifulcarpets.pink_gold_moquette_carpet": "Pink gold moquette Carpet",
-	"block.beautifulcarpets.pink_iron_moquette_carpet": "Pink iron moquette Carpet",
-	"block.beautifulcarpets.pink_copper_moquette_carpet": "Pink copper moquette Carpet",
+	"block.beautifulcarpets.pink_gold_moquette_carpet": "Pink gold moquette carpet",
+	"block.beautifulcarpets.pink_iron_moquette_carpet": "Pink iron moquette carpet",
+	"block.beautifulcarpets.pink_copper_moquette_carpet": "Pink copper moquette carpet",
 
-	"block.beautifulcarpets.brown_gold_moquette_carpet": "Brown gold moquette Carpet",
-	"block.beautifulcarpets.brown_iron_moquette_carpet": "Brown iron moquette Carpet",
-	"block.beautifulcarpets.brown_copper_moquette_carpet": "Brown copper moquette Carpet",
+	"block.beautifulcarpets.brown_gold_moquette_carpet": "Brown gold moquette carpet",
+	"block.beautifulcarpets.brown_iron_moquette_carpet": "Brown iron moquette carpet",
+	"block.beautifulcarpets.brown_copper_moquette_carpet": "Brown copper moquette carpet",
 
-	"block.beautifulcarpets.black_gold_moquette_carpet": "Black gold moquette Carpet",
-	"block.beautifulcarpets.black_iron_moquette_carpet": "Black iron moquette Carpet",
-	"block.beautifulcarpets.black_copper_moquette_carpet": "Black copper moquette Carpet",
+	"block.beautifulcarpets.black_gold_moquette_carpet": "Black gold moquette carpet",
+	"block.beautifulcarpets.black_iron_moquette_carpet": "Black iron moquette carpet",
+	"block.beautifulcarpets.black_copper_moquette_carpet": "Black copper moquette carpet",
 
-	"block.beautifulcarpets.gray_gold_moquette_carpet": "Gray gold moquette Carpet",
-	"block.beautifulcarpets.gray_iron_moquette_carpet": "Gray iron moquette Carpet",
-	"block.beautifulcarpets.gray_copper_moquette_carpet": "Gray copper moquette Carpet",
+	"block.beautifulcarpets.gray_gold_moquette_carpet": "Gray gold moquette carpet",
+	"block.beautifulcarpets.gray_iron_moquette_carpet": "Gray iron moquette carpet",
+	"block.beautifulcarpets.gray_copper_moquette_carpet": "Gray copper moquette carpet",
 
-	"block.beautifulcarpets.light_gray_gold_moquette_carpet": "Light Gray gold moquette Carpet",
-	"block.beautifulcarpets.light_gray_iron_moquette_carpet": "Light Gray iron moquette Carpet",
-	"block.beautifulcarpets.light_gray_copper_moquette_carpet": "Light Gray copper moquette Carpet",
+	"block.beautifulcarpets.light_gray_gold_moquette_carpet": "Light Gray gold moquette carpet",
+	"block.beautifulcarpets.light_gray_iron_moquette_carpet": "Light Gray iron moquette carpet",
+	"block.beautifulcarpets.light_gray_copper_moquette_carpet": "Light Gray copper moquette carpet",
 
-	"block.beautifulcarpets.white_gold_moquette_carpet": "White gold moquette Carpet",
-	"block.beautifulcarpets.white_iron_moquette_carpet": "White iron moquette Carpet",
-	"block.beautifulcarpets.white_copper_moquette_carpet": "White copper moquette Carpet"
+	"block.beautifulcarpets.white_gold_moquette_carpet": "White gold moquette carpet",
+	"block.beautifulcarpets.white_iron_moquette_carpet": "White iron moquette carpet",
+	"block.beautifulcarpets.white_copper_moquette_carpet": "White copper moquette carpet",
+
+
+	"block.beautifulcarpets.red_gold_moquette_faded": "Red gold faded moquette",
+	"block.beautifulcarpets.red_iron_moquette_faded": "Red iron faded moquette",
+	"block.beautifulcarpets.red_copper_moquette_faded": "Red copper faded moquette",
+
+	"block.beautifulcarpets.orange_gold_moquette_faded": "Orange gold faded moquette",
+	"block.beautifulcarpets.orange_iron_moquette_faded": "Orange iron faded moquette",
+	"block.beautifulcarpets.orange_copper_moquette_faded": "Orange copper faded moquette",
+
+	"block.beautifulcarpets.yellow_gold_moquette_faded": "Yellow gold faded moquette",
+	"block.beautifulcarpets.yellow_iron_moquette_faded": "Yellow iron faded moquette",
+	"block.beautifulcarpets.yellow_copper_moquette_faded": "Yellow copper faded moquette",
+
+	"block.beautifulcarpets.lime_gold_moquette_faded": "Lime gold faded moquette",
+	"block.beautifulcarpets.lime_iron_moquette_faded": "Lime iron faded moquette",
+	"block.beautifulcarpets.lime_copper_moquette_faded": "Lime copper faded moquette",
+
+	"block.beautifulcarpets.green_gold_moquette_faded": "Green gold faded moquette",
+	"block.beautifulcarpets.green_iron_moquette_faded": "Green iron faded moquette",
+	"block.beautifulcarpets.green_copper_moquette_faded": "Green copper faded moquette",
+
+	"block.beautifulcarpets.cyan_gold_moquette_faded": "Cyan gold faded moquette",
+	"block.beautifulcarpets.cyan_iron_moquette_faded": "Cyan iron faded moquette",
+	"block.beautifulcarpets.cyan_copper_moquette_faded": "Cyan copper faded moquette",
+
+	"block.beautifulcarpets.light_blue_gold_moquette_faded": "Light Blue faded gold moquette",
+	"block.beautifulcarpets.light_blue_iron_moquette_faded": "Light Blue faded iron moquette",
+	"block.beautifulcarpets.light_blue_copper_moquette_faded": "Light Blue faded copper moquette",
+
+	"block.beautifulcarpets.blue_gold_moquette_faded": "Blue gold faded moquette",
+	"block.beautifulcarpets.blue_iron_moquette_faded": "Blue iron faded moquette",
+	"block.beautifulcarpets.blue_copper_moquette_faded": "Blue copper faded moquette",
+
+	"block.beautifulcarpets.purple_gold_moquette_faded": "Purple gold faded moquette",
+	"block.beautifulcarpets.purple_iron_moquette_faded": "Purple iron faded moquette",
+	"block.beautifulcarpets.purple_copper_moquette_faded": "Purple copper faded moquette",
+
+	"block.beautifulcarpets.magenta_gold_moquette_faded": "Magenta gold faded moquette",
+	"block.beautifulcarpets.magenta_iron_moquette_faded": "Magenta iron faded moquette",
+	"block.beautifulcarpets.magenta_copper_moquette_faded": "Magenta copper faded moquette",
+
+	"block.beautifulcarpets.pink_gold_moquette_faded": "Pink gold faded moquette",
+	"block.beautifulcarpets.pink_iron_moquette_faded": "Pink iron faded moquette",
+	"block.beautifulcarpets.pink_copper_moquette_faded": "Pink copper faded moquette",
+
+	"block.beautifulcarpets.brown_gold_moquette_faded": "Brown gold faded moquette",
+	"block.beautifulcarpets.brown_iron_moquette_faded": "Brown iron faded moquette",
+	"block.beautifulcarpets.brown_copper_moquette_faded": "Brown copper faded moquette",
+
+	"block.beautifulcarpets.black_gold_moquette_faded": "Black gold faded moquette",
+	"block.beautifulcarpets.black_iron_moquette_faded": "Black iron faded moquette",
+	"block.beautifulcarpets.black_copper_moquette_faded": "Black copper faded moquette",
+
+	"block.beautifulcarpets.gray_gold_moquette_faded": "Gray gold faded moquette",
+	"block.beautifulcarpets.gray_iron_moquette_faded": "Gray iron faded moquette",
+	"block.beautifulcarpets.gray_copper_moquette_faded": "Gray copper faded moquette",
+
+	"block.beautifulcarpets.light_gray_gold_moquette_faded": "Light Gray faded gold moquette",
+	"block.beautifulcarpets.light_gray_iron_moquette_faded": "Light Gray faded iron moquette",
+	"block.beautifulcarpets.light_gray_copper_moquette_faded": "Light Gray faded copper moquette",
+
+	"block.beautifulcarpets.white_gold_moquette_faded": "White gold faded moquette",
+	"block.beautifulcarpets.white_iron_moquette_faded": "White iron faded moquette",
+	"block.beautifulcarpets.white_copper_moquette_faded": "White copper faded moquette",
+
+
+	"block.beautifulcarpets.red_gold_moquette_faded_carpet": "Red gold faded moquette carpet",
+	"block.beautifulcarpets.red_iron_moquette_faded_carpet": "Red iron faded moquette carpet",
+	"block.beautifulcarpets.red_copper_moquette_faded_carpet": "Red copper faded moquette carpet",
+
+	"block.beautifulcarpets.orange_gold_moquette_faded_carpet": "Orange gold faded moquette carpet",
+	"block.beautifulcarpets.orange_iron_moquette_faded_carpet": "Orange iron faded moquette carpet",
+	"block.beautifulcarpets.orange_copper_moquette_faded_carpet": "Orange copper faded moquette carpet",
+
+	"block.beautifulcarpets.yellow_gold_moquette_faded_carpet": "Yellow gold faded moquette carpet",
+	"block.beautifulcarpets.yellow_iron_moquette_faded_carpet": "Yellow iron faded moquette carpet",
+	"block.beautifulcarpets.yellow_copper_moquette_faded_carpet": "Yellow copper faded moquette carpet",
+
+	"block.beautifulcarpets.lime_gold_moquette_faded_carpet": "Lime gold faded moquette carpet",
+	"block.beautifulcarpets.lime_iron_moquette_faded_carpet": "Lime iron faded moquette carpet",
+	"block.beautifulcarpets.lime_copper_moquette_faded_carpet": "Lime copper faded moquette carpet",
+
+	"block.beautifulcarpets.green_gold_moquette_faded_carpet": "Green gold faded moquette carpet",
+	"block.beautifulcarpets.green_iron_moquette_faded_carpet": "Green iron faded moquette carpet",
+	"block.beautifulcarpets.green_copper_moquette_faded_carpet": "Green copper faded moquette carpet",
+
+	"block.beautifulcarpets.cyan_gold_moquette_faded_carpet": "Cyan gold faded moquette carpet",
+	"block.beautifulcarpets.cyan_iron_moquette_faded_carpet": "Cyan iron faded moquette carpet",
+	"block.beautifulcarpets.cyan_copper_moquette_faded_carpet": "Cyan copper faded moquette carpet",
+
+	"block.beautifulcarpets.light_blue_gold_moquette_faded_carpet": "Light Blue gold faded moquette carpet",
+	"block.beautifulcarpets.light_blue_iron_moquette_faded_carpet": "Light Blue iron faded moquette carpet",
+	"block.beautifulcarpets.light_blue_copper_moquette_faded_carpet": "Light Blue copper faded moquette carpet",
+
+	"block.beautifulcarpets.blue_gold_moquette_faded_carpet": "Blue gold faded moquette carpet",
+	"block.beautifulcarpets.blue_iron_moquette_faded_carpet": "Blue iron faded moquette carpet",
+	"block.beautifulcarpets.blue_copper_moquette_faded_carpet": "Blue copper faded moquette carpet",
+
+	"block.beautifulcarpets.purple_gold_moquette_faded_carpet": "Purple gold faded moquette carpet",
+	"block.beautifulcarpets.purple_iron_moquette_faded_carpet": "Purple iron faded moquette carpet",
+	"block.beautifulcarpets.purple_copper_moquette_faded_carpet": "Purple copper faded moquette carpet",
+
+	"block.beautifulcarpets.magenta_gold_moquette_faded_carpet": "Magenta gold faded moquette carpet",
+	"block.beautifulcarpets.magenta_iron_moquette_faded_carpet": "Magenta iron faded moquette carpet",
+	"block.beautifulcarpets.magenta_copper_moquette_faded_carpet": "Magenta copper faded moquette carpet",
+
+	"block.beautifulcarpets.pink_gold_moquette_faded_carpet": "Pink gold faded moquette carpet",
+	"block.beautifulcarpets.pink_iron_moquette_faded_carpet": "Pink iron faded moquette carpet",
+	"block.beautifulcarpets.pink_copper_moquette_faded_carpet": "Pink copper faded moquette carpet",
+
+	"block.beautifulcarpets.brown_gold_moquette_faded_carpet": "Brown gold faded moquette carpet",
+	"block.beautifulcarpets.brown_iron_moquette_faded_carpet": "Brown iron faded moquette carpet",
+	"block.beautifulcarpets.brown_copper_moquette_faded_carpet": "Brown copper faded moquette carpet",
+
+	"block.beautifulcarpets.black_gold_moquette_faded_carpet": "Black gold faded moquette carpet",
+	"block.beautifulcarpets.black_iron_moquette_faded_carpet": "Black iron faded moquette carpet",
+	"block.beautifulcarpets.black_copper_moquette_faded_carpet": "Black copper faded moquette carpet",
+
+	"block.beautifulcarpets.gray_gold_moquette_faded_carpet": "Gray gold faded moquette carpet",
+	"block.beautifulcarpets.gray_iron_moquette_faded_carpet": "Gray iron faded moquette carpet",
+	"block.beautifulcarpets.gray_copper_moquette_faded_carpet": "Gray copper faded moquette carpet",
+
+	"block.beautifulcarpets.light_gray_gold_moquette_faded_carpet": "Light Gray gold faded moquette carpet",
+	"block.beautifulcarpets.light_gray_iron_moquette_faded_carpet": "Light Gray iron faded moquette carpet",
+	"block.beautifulcarpets.light_gray_copper_moquette_faded_carpet": "Light Gray copper faded moquette carpet",
+
+	"block.beautifulcarpets.white_gold_moquette_faded_carpet": "White gold faded moquette carpet",
+	"block.beautifulcarpets.white_iron_moquette_faded_carpet": "White iron faded moquette carpet",
+	"block.beautifulcarpets.white_copper_moquette_faded_carpet": "White copper faded moquette carpet",
+
+
+	"block.beautifulcarpets.red_velvet": "Red velvet",
+	"block.beautifulcarpets.orange_velvet": "Orange velvet",
+	"block.beautifulcarpets.yellow_velvet": "Yellow velvet",
+	"block.beautifulcarpets.lime_velvet": "Lime velvet",
+	"block.beautifulcarpets.green_velvet": "Green velvet",
+	"block.beautifulcarpets.cyan_velvet": "Cyan velvet",
+	"block.beautifulcarpets.light_blue_velvet": "Light Blue velvet",
+	"block.beautifulcarpets.blue_velvet": "Blue velvet",
+	"block.beautifulcarpets.purple_velvet": "Purple velvet",
+	"block.beautifulcarpets.magenta_velvet": "Magenta velvet",
+	"block.beautifulcarpets.pink_velvet": "Pink velvet",
+	"block.beautifulcarpets.brown_velvet": "Brown velvet",
+	"block.beautifulcarpets.black_velvet": "Black velvet",
+	"block.beautifulcarpets.gray_velvet": "Gray velvet",
+	"block.beautifulcarpets.light_gray_velvet": "Light Gray velvet",
+	"block.beautifulcarpets.white_velvet": "White velvet",
+
+
+	"block.beautifulcarpets.red_velvet_carpet": "Red velvet carpet",
+	"block.beautifulcarpets.orange_velvet_carpet": "Orange velvet carpet",
+	"block.beautifulcarpets.yellow_velvet_carpet": "Yellow velvet carpet",
+	"block.beautifulcarpets.lime_velvet_carpet": "Lime velvet carpet",
+	"block.beautifulcarpets.green_velvet_carpet": "Green velvet carpet",
+	"block.beautifulcarpets.cyan_velvet_carpet": "Cyan velvet carpet",
+	"block.beautifulcarpets.light_blue_velvet_carpet": "Light Blue velvet carpet",
+	"block.beautifulcarpets.blue_velvet_carpet": "Blue velvet carpet",
+	"block.beautifulcarpets.purple_velvet_carpet": "Purple velvet carpet",
+	"block.beautifulcarpets.magenta_velvet_carpet": "Magenta velvet carpet",
+	"block.beautifulcarpets.pink_velvet_carpet": "Pink velvet carpet",
+	"block.beautifulcarpets.brown_velvet_carpet": "Brown velvet carpet",
+	"block.beautifulcarpets.black_velvet_carpet": "Black velvet carpet",
+	"block.beautifulcarpets.gray_velvet_carpet": "Gray velvet carpet",
+	"block.beautifulcarpets.light_gray_velvet_carpet": "Light Gray velvet carpet",
+	"block.beautifulcarpets.white_velvet_carpet": "White velvet carpet",
+
+
+	"block.beautifulcarpets.red_velvet_faded": "Red faded velvet",
+	"block.beautifulcarpets.orange_velvet_faded": "Orange faded velvet",
+	"block.beautifulcarpets.yellow_velvet_faded": "Yellow faded velvet",
+	"block.beautifulcarpets.lime_velvet_faded": "Lime faded velvet",
+	"block.beautifulcarpets.green_velvet_faded": "Green faded velvet",
+	"block.beautifulcarpets.cyan_velvet_faded": "Cyan faded velvet",
+	"block.beautifulcarpets.light_blue_velvet_faded": "Light Blue faded velvet",
+	"block.beautifulcarpets.blue_velvet_faded": "Blue faded velvet",
+	"block.beautifulcarpets.purple_velvet_faded": "Purple faded velvet",
+	"block.beautifulcarpets.magenta_velvet_faded": "Magenta faded velvet",
+	"block.beautifulcarpets.pink_velvet_faded": "Pink faded velvet",
+	"block.beautifulcarpets.brown_velvet_faded": "Brown faded velvet",
+	"block.beautifulcarpets.black_velvet_faded": "Black faded velvet",
+	"block.beautifulcarpets.gray_velvet_faded": "Gray faded velvet",
+	"block.beautifulcarpets.light_gray_velvet_faded": "Light Gray faded velvet",
+	"block.beautifulcarpets.white_velvet_faded": "White faded velvet",
+
+
+	"block.beautifulcarpets.red_velvet_faded_carpet": "Red velvet faded carpet",
+	"block.beautifulcarpets.orange_velvet_faded_carpet": "Orange velvet faded carpet",
+	"block.beautifulcarpets.yellow_velvet_faded_carpet": "Yellow velvet faded carpet",
+	"block.beautifulcarpets.lime_velvet_faded_carpet": "Lime velvet faded carpet",
+	"block.beautifulcarpets.green_velvet_faded_carpet": "Green velvet faded carpet",
+	"block.beautifulcarpets.cyan_velvet_faded_carpet": "Cyan velvet faded carpet",
+	"block.beautifulcarpets.light_blue_velvet_faded_carpet": "Light Blue velvet faded carpet",
+	"block.beautifulcarpets.blue_velvet_faded_carpet": "Blue velvet faded carpet",
+	"block.beautifulcarpets.purple_velvet_faded_carpet": "Purple velvet faded carpet",
+	"block.beautifulcarpets.magenta_velvet_faded_carpet": "Magenta velvet faded carpet",
+	"block.beautifulcarpets.pink_velvet_faded_carpet": "Pink velvet faded carpet",
+	"block.beautifulcarpets.brown_velvet_faded_carpet": "Brown velvet faded carpet",
+	"block.beautifulcarpets.black_velvet_faded_carpet": "Black velvet faded carpet",
+	"block.beautifulcarpets.gray_velvet_faded_carpet": "Gray velvet faded carpet",
+	"block.beautifulcarpets.light_gray_velvet_faded_carpet": "Light Gray velvet faded carpet",
+	"block.beautifulcarpets.white_velvet_faded_carpet": "White velvet faded carpet"
 }

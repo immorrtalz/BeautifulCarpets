@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "carpet",
+	"key":
+	{
+		"#": { "item": "beautifulcarpets:purple_velvet" }
+	},
+	"pattern": ["##"],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:purple_velvet_carpet"
+	}
+}

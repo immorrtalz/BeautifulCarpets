@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"group": "wool",
+	"ingredients": [
+		{ "item": "beautifulcarpets:green_copper_moquette" }
+	],
+	"result":
+	{
+		"count": 1,
+		"id": "beautifulcarpets:green_copper_moquette_faded"
+	}
+}

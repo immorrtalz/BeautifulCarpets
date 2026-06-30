@@ -1,0 +1,4 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": { "all": "beautifulcarpets:block/moquette_faded/iron/brown_iron_moquette_faded" }
+}
