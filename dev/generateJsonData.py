@@ -111,7 +111,7 @@ def getMoquetteCarpetCraftJson(color, ornamentMaterial, isFaded):
 
 def getVelvetCarpetCraftJson(color, isFaded):
 	return f"""{{
-	"type": "minecraft:crafting_shapeless",
+	"type": "minecraft:crafting_shape{'less' if isFaded else 'd'}",
 	"category": "misc",
 	"group": "carpet",
 	{
@@ -126,7 +126,7 @@ def getVelvetCarpetCraftJson(color, isFaded):
 	"pattern": ["##"],'''}
 	"result":
 	{{
-		"count": 1,
+		"count": {'1' if isFaded else '3'},
 		"id": "{getVelvetId(color, isFaded)}_carpet"
 	}}
 }}"""
