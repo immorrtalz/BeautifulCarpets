@@ -35,7 +35,7 @@ public class BeautifulCarpets
 	{
 		ModBlocks.BLOCKS.register(modEventBus);
 		ModItems.ITEMS.register(modEventBus);
-		ModCreativeTabs.TABS.register(modEventBus);
+		modEventBus.addListener(ModCreativeTabs::addCreative);
 
 		modEventBus.addListener(BeautifulCarpets::onGatherData);
 		modEventBus.addListener(BeautifulCarpets::onCommonSetup); // this crashes the game
