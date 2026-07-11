@@ -31,7 +31,7 @@ Beautiful carpets, inspired by those you could see in the [doctor4t](https://mod
 - Minecraft 1.21.9 or higher
 
 ## 📫 Contacts
-If you have any questions or suggestions, you could open an issue on [GitHub](https://github.com/immorrtalz/BeautifulCarpets/issues) or contact me in Discord (`@immorrtalz`) or [Telegram (`@immorrtalz`)](https://t.me/immorrtalz)
+If you have any questions or suggestions, you could open an issue on [GitHub](https://github.com/immorrtalz/BeautifulCarpets/issues) or contact me in [Discord (`@immorrtalz`)](https://discord.com/users/600372174926381057) or [Telegram (`@immorrtalz`)](https://t.me/immorrtalz)
 
 ## ⚖️ License
 Except where otherwise stated, the content of this repository is provided under the [GNU GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
